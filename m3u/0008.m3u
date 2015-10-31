@@ -2,6 +2,8 @@
 
 #EXTINF:-1,VH1
 http://78.88.199.29:8001/1:0:1:7:3200:13E:820000:0:0:0
+#EXTINF:0,ORF 1 HD 
+http://teleboy.customers.cdn.iptv.ch/1010/2290000/index.m3u8
 #EXTINF:-1,POWER TV
 http://79.136.43.213:8001/1:0:1:3DC7:640:13E:820000:0:0:0  
 #EXTINF:-1,0001       (178.235.62.130:8001)
