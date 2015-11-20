@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1,Test
-http://80.229.201.51:8001/1:0:1:D034:83E:2:11A0000:0:0:0::374                                                   
+#EXTINF:-1,Clubland TV
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8                                                  
