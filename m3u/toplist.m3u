@@ -1,841 +1,2573 @@
-#EXTM3U
-#EXTINF:0,### ITALIAN: SKY ITALIA ###
-http://skyiptv.ddns.net:8000/live/edi/edi/1.ts
-#EXTINF:0,IT: SKYIT F1 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/2.ts
-#EXTINF:0,IT: SKYIT Cinema Hits HD
-http://skyiptv.ddns.net:8000/live/edi/edi/3.ts
-#EXTINF:0,IT: SKYIT Cinema HD
-http://skyiptv.ddns.net:8000/live/edi/edi/4.ts
-#EXTINF:0,IT TG Com 24
-http://skyiptv.ddns.net:8000/live/edi/edi/6.ts
-#EXTINF:0,IT Sky Tg 24
-http://skyiptv.ddns.net:8000/live/edi/edi/7.ts
-#EXTINF:0,IT Sky Supercalcio
-http://skyiptv.ddns.net:8000/live/edi/edi/8.ts
-#EXTINF:0,IT Sky Sport Plus
-http://skyiptv.ddns.net:8000/live/edi/edi/9.ts
-#EXTINF:0,IT Sky Sport F1
-http://skyiptv.ddns.net:8000/live/edi/edi/10.ts
-#EXTINF:0,IT Sky Sport 24
-http://skyiptv.ddns.net:8000/live/edi/edi/12.ts
-#EXTINF:0,IT Sky Sport 1
-http://skyiptv.ddns.net:8000/live/edi/edi/14.ts
-#EXTINF:0,IT Sky Sport 2
-http://skyiptv.ddns.net:8000/live/edi/edi/13.ts
-#EXTINF:0,IT Sky Sport 3
-http://skyiptv.ddns.net:8000/live/edi/edi/11.ts
-#EXTINF:0,IT: Sky Sport MotoGP HD
-http://skyiptv.ddns.net:8000/live/edi/edi/16.ts
-#EXTINF:0,IT Sky Cinema Passion
-http://skyiptv.ddns.net:8000/live/edi/edi/17.ts
-#EXTINF:0,IT Sky Cinema Max  1
-http://skyiptv.ddns.net:8000/live/edi/edi/18.ts
-#EXTINF:0,IT Sky Cinema Max
-http://skyiptv.ddns.net:8000/live/edi/edi/19.ts
-#EXTINF:0,IT Sky Cinema Family
-http://skyiptv.ddns.net:8000/live/edi/edi/20.ts
-#EXTINF:0,IT Sky Cinema Cult
-http://skyiptv.ddns.net:8000/live/edi/edi/21.ts
-#EXTINF:0,IT Sky Cinema Comedy
-http://skyiptv.ddns.net:8000/live/edi/edi/22.ts
-#EXTINF:0,IT Sky Cinema Classic
-http://skyiptv.ddns.net:8000/live/edi/edi/23.ts
-#EXTINF:0,IT Sky Cinema 1
-http://skyiptv.ddns.net:8000/live/edi/edi/24.ts
-#EXTINF:0,IT Sky Cinema  24
-http://skyiptv.ddns.net:8000/live/edi/edi/25.ts
-#EXTINF:0,IT Sky Calcio 1
-http://skyiptv.ddns.net:8000/live/edi/edi/26.ts
-#EXTINF:0,IT Sky Calcio 2
-http://skyiptv.ddns.net:8000/live/edi/edi/27.ts
-#EXTINF:0,IT Sky Calcio 3
-http://skyiptv.ddns.net:8000/live/edi/edi/28.ts
-#EXTINF:0,IT Sky Atlantic
-http://skyiptv.ddns.net:8000/live/edi/edi/29.ts
-#EXTINF:0,IT Sky Arte
-http://skyiptv.ddns.net:8000/live/edi/edi/30.ts
-#EXTINF:0,IT Rete 4
-http://skyiptv.ddns.net:8000/live/edi/edi/31.ts
-#EXTINF:0,IT Rai 1
-http://skyiptv.ddns.net:8000/live/edi/edi/34.ts
-#EXTINF:0,IT Rai 2
-http://skyiptv.ddns.net:8000/live/edi/edi/33.ts
-#EXTINF:0,IT Rai 3
-http://skyiptv.ddns.net:8000/live/edi/edi/32.ts
-#EXTINF:0,IT Primafila 1
-http://skyiptv.ddns.net:8000/live/edi/edi/35.ts
-#EXTINF:0,IT Primafila 2
-http://skyiptv.ddns.net:8000/live/edi/edi/36.ts
-#EXTINF:0,IT Primafila 3
-http://skyiptv.ddns.net:8000/live/edi/edi/37.ts
-#EXTINF:0,IT Primafila 4
-http://skyiptv.ddns.net:8000/live/edi/edi/38.ts
-#EXTINF:0,IT Primafila  5
-http://skyiptv.ddns.net:8000/live/edi/edi/39.ts
-#EXTINF:0,IT Primafila 6
-http://skyiptv.ddns.net:8000/live/edi/edi/40.ts
-#EXTINF:0,IT Primafila 7
-http://skyiptv.ddns.net:8000/live/edi/edi/41.ts
-#EXTINF:0,IT Primafila 8
-http://skyiptv.ddns.net:8000/live/edi/edi/42.ts
-#EXTINF:0,IT Primafila 9
-http://skyiptv.ddns.net:8000/live/edi/edi/43.ts
-#EXTINF:0,IT Primafila 10
-http://skyiptv.ddns.net:8000/live/edi/edi/44.ts
-#EXTINF:0,IT Primafila 11
-http://skyiptv.ddns.net:8000/live/edi/edi/45.ts
-#EXTINF:0,IT Primafila 12
-http://skyiptv.ddns.net:8000/live/edi/edi/46.ts
-#EXTINF:0,IT Primafila 13
-http://skyiptv.ddns.net:8000/live/edi/edi/47.ts
-#EXTINF:0,IT Primafila 14
-http://skyiptv.ddns.net:8000/live/edi/edi/48.ts
-#EXTINF:0,IT Primafila 15
-http://skyiptv.ddns.net:8000/live/edi/edi/49.ts
-#EXTINF:0,IT Primafila 16
-http://skyiptv.ddns.net:8000/live/edi/edi/50.ts
-#EXTINF:0,IT Primafila 17
-http://skyiptv.ddns.net:8000/live/edi/edi/51.ts
-#EXTINF:0,IT Primafila 18
-http://skyiptv.ddns.net:8000/live/edi/edi/52.ts
-#EXTINF:0,IT Primafila 19
-http://skyiptv.ddns.net:8000/live/edi/edi/53.ts
-#EXTINF:0,IT Premium Studio Universal
-http://skyiptv.ddns.net:8000/live/edi/edi/54.ts
-#EXTINF:0,IT Premium Mya
-http://skyiptv.ddns.net:8000/live/edi/edi/55.ts
-#EXTINF:0,IT Premium Joy
-http://skyiptv.ddns.net:8000/live/edi/edi/56.ts
-#EXTINF:0,IT Premium Energy
-http://skyiptv.ddns.net:8000/live/edi/edi/57.ts
-#EXTINF:0,IT Premium Emotion
-http://skyiptv.ddns.net:8000/live/edi/edi/58.ts
-#EXTINF:0,IT Premium Disney Junior
-http://skyiptv.ddns.net:8000/live/edi/edi/59.ts
-#EXTINF:0,IT Premium Disney Channel
-http://skyiptv.ddns.net:8000/live/edi/edi/60.ts
-#EXTINF:0,IT Premium Discovery World
-http://skyiptv.ddns.net:8000/live/edi/edi/61.ts
-#EXTINF:0,IT Premium Crime
-http://skyiptv.ddns.net:8000/live/edi/edi/62.ts
-#EXTINF:0,IT Premium Comedy
-http://skyiptv.ddns.net:8000/live/edi/edi/63.ts
-#EXTINF:0,IT Premium Cinema
-http://skyiptv.ddns.net:8000/live/edi/edi/64.ts
-#EXTINF:0,IT Premium Calcio 1
-http://skyiptv.ddns.net:8000/live/edi/edi/67.ts
-#EXTINF:0,IT Premium Calcio 2
-http://skyiptv.ddns.net:8000/live/edi/edi/66.ts
-#EXTINF:0,IT Premium Calcio 3
-http://skyiptv.ddns.net:8000/live/edi/edi/678.ts
-#EXTINF:0,IT Premium Calcio 4
-http://skyiptv.ddns.net:8000/live/edi/edi/679.ts
-#EXTINF:0,IT Premium Calcio 5
-http://skyiptv.ddns.net:8000/live/edi/edi/680.ts
-#EXTINF:0,IT Premium Calcio 6
-http://skyiptv.ddns.net:8000/live/edi/edi/681.ts
-#EXTINF:0,IT Premium Calcio
-http://skyiptv.ddns.net:8000/live/edi/edi/68.ts
-#EXTINF:0,IT Premium BBC
-http://skyiptv.ddns.net:8000/live/edi/edi/69.ts
-#EXTINF:0,IT Premium Action
-http://skyiptv.ddns.net:8000/live/edi/edi/70.ts
-#EXTINF:0,IT National Geographic
-http://skyiptv.ddns.net:8000/live/edi/edi/71.ts
-#EXTINF:0,IT NatGeo Wild
-http://skyiptv.ddns.net:8000/live/edi/edi/72.ts
-#EXTINF:0,IT LA 7
-http://skyiptv.ddns.net:8000/live/edi/edi/73.ts
-#EXTINF:0,IT Italia 1
-http://skyiptv.ddns.net:8000/live/edi/edi/74.ts
-#EXTINF:0,IT HIstory
-http://skyiptv.ddns.net:8000/live/edi/edi/75.ts
-#EXTINF:0,IT Fox Sport
-http://skyiptv.ddns.net:8000/live/edi/edi/76.ts
-#EXTINF:0,IT Fox Life
-http://skyiptv.ddns.net:8000/live/edi/edi/77.ts
-#EXTINF:0,IT Fox Crime
-http://skyiptv.ddns.net:8000/live/edi/edi/78.ts
-#EXTINF:0,IT Fox Comedy
-http://skyiptv.ddns.net:8000/live/edi/edi/79.ts
-#EXTINF:0,IT Fox Animation
-http://skyiptv.ddns.net:8000/live/edi/edi/80.ts
-#EXTINF:0,IT Fox
-http://skyiptv.ddns.net:8000/live/edi/edi/81.ts
-#EXTINF:0,IT Dmax
-http://skyiptv.ddns.net:8000/live/edi/edi/82.ts
-#EXTINF:0,IT Discovery World
-http://skyiptv.ddns.net:8000/live/edi/edi/83.ts
-#EXTINF:0,IT Discovery Science
-http://skyiptv.ddns.net:8000/live/edi/edi/84.ts
-#EXTINF:0,IT Discovery
-http://skyiptv.ddns.net:8000/live/edi/edi/85.ts
-#EXTINF:0,IT Cielo
-http://skyiptv.ddns.net:8000/live/edi/edi/86.ts
-#EXTINF:0,IT Canale 5
-http://skyiptv.ddns.net:8000/live/edi/edi/87.ts
-#EXTINF:0,IT AXN
-http://skyiptv.ddns.net:8000/live/edi/edi/88.ts
-#EXTINF:0,####### USA #######
-http://skyiptv.ddns.net:8000/live/edi/edi/219.ts
-#EXTINF:0,USA Fox Sports 1
-http://skyiptv.ddns.net:8000/live/edi/edi/226.ts
-#EXTINF:0,Weo
-http://skyiptv.ddns.net:8000/live/edi/edi/177.ts
-#EXTINF:0,Vox Norway
-http://skyiptv.ddns.net:8000/live/edi/edi/178.ts
-#EXTINF:0,USA TSN 1
-http://skyiptv.ddns.net:8000/live/edi/edi/223.ts
-#EXTINF:0,USA TSN 2
-http://skyiptv.ddns.net:8000/live/edi/edi/224.ts
-#EXTINF:0,USA TSN 4
-http://skyiptv.ddns.net:8000/live/edi/edi/225.ts
-#EXTINF:0,### SKY UK CHANNELS ###
-http://skyiptv.ddns.net:8000/live/edi/edi/89.ts
-#EXTINF:0,UK : Sky Movies Syfy HD
-http://skyiptv.ddns.net:8000/live/edi/edi/660.ts
-#EXTINF:0,UK TV 3
-http://skyiptv.ddns.net:8000/live/edi/edi/116.ts
-#EXTINF:0,UK True Movies 1
-http://skyiptv.ddns.net:8000/live/edi/edi/117.ts
-#EXTINF:0,UK True Movies 2
-http://skyiptv.ddns.net:8000/live/edi/edi/682.ts
-#EXTINF:0,UK The Vault
-http://skyiptv.ddns.net:8000/live/edi/edi/118.ts
-#EXTINF:0,UK TG 4
-http://skyiptv.ddns.net:8000/live/edi/edi/119.ts
-#EXTINF:0,UK Sky Sports News
-http://skyiptv.ddns.net:8000/live/edi/edi/121.ts
-#EXTINF:0,UK Sky Sports F1
-http://skyiptv.ddns.net:8000/live/edi/edi/122.ts
-#EXTINF:0,UK Sky Sports 1
-http://skyiptv.ddns.net:8000/live/edi/edi/127.ts
-#EXTINF:0,UK Sky Sports 2
-http://skyiptv.ddns.net:8000/live/edi/edi/126.ts
-#EXTINF:0,UK Sky Sports 3
-http://skyiptv.ddns.net:8000/live/edi/edi/125.ts
-#EXTINF:0,UK Sky Sports 4
-http://skyiptv.ddns.net:8000/live/edi/edi/124.ts
-#EXTINF:0,UK Sky Sports 5
-http://skyiptv.ddns.net:8000/live/edi/edi/123.ts
-#EXTINF:0,UK Sky Premiere Sports
-http://skyiptv.ddns.net:8000/live/edi/edi/128.ts
-#EXTINF:0,UK Sky One
-http://skyiptv.ddns.net:8000/live/edi/edi/129.ts
-#EXTINF:0,UK Sky Two
-http://skyiptv.ddns.net:8000/live/edi/edi/120.ts
-#EXTINF:0,UK Sky Movies Scifi / Horror
-http://skyiptv.ddns.net:8000/live/edi/edi/130.ts
-#EXTINF:0,UK Sky Arts 1
-http://skyiptv.ddns.net:8000/live/edi/edi/131.ts
-#EXTINF:0,UK RTE 1
-http://skyiptv.ddns.net:8000/live/edi/edi/133.ts
-#EXTINF:0,UK RTE 2
-http://skyiptv.ddns.net:8000/live/edi/edi/132.ts
-#EXTINF:0,UK Quest
-http://skyiptv.ddns.net:8000/live/edi/edi/134.ts
-#EXTINF:0,UK Nicktoons
-http://skyiptv.ddns.net:8000/live/edi/edi/135.ts
-#EXTINF:0,UK Nickelodeon
-http://skyiptv.ddns.net:8000/live/edi/edi/136.ts
-#EXTINF:0,UK National Geographic Wild
-http://skyiptv.ddns.net:8000/live/edi/edi/137.ts
-#EXTINF:0,UK National Geographic
-http://skyiptv.ddns.net:8000/live/edi/edi/138.ts
-#EXTINF:0,UK More 4
-http://skyiptv.ddns.net:8000/live/edi/edi/139.ts
-#EXTINF:0,UK ITV 1
-http://skyiptv.ddns.net:8000/live/edi/edi/143.ts
-#EXTINF:0,UK ITV 2
-http://skyiptv.ddns.net:8000/live/edi/edi/142.ts
-#EXTINF:0,UK ITV 3
-http://skyiptv.ddns.net:8000/live/edi/edi/141.ts
-#EXTINF:0,UK ITV 4
-http://skyiptv.ddns.net:8000/live/edi/edi/140.ts
-#EXTINF:0,UK Investigation
-http://skyiptv.ddns.net:8000/live/edi/edi/144.ts
-#EXTINF:0,UK History Channel
-http://skyiptv.ddns.net:8000/live/edi/edi/145.ts
-#EXTINF:0,UK Gold
-http://skyiptv.ddns.net:8000/live/edi/edi/146.ts
-#EXTINF:0,UK Food Network
-http://skyiptv.ddns.net:8000/live/edi/edi/147.ts
-#EXTINF:0,UK Flava
-http://skyiptv.ddns.net:8000/live/edi/edi/148.ts
-#EXTINF:0,UK Eurosport 2
-http://skyiptv.ddns.net:8000/live/edi/edi/90.ts
-#EXTINF:0,UK Eurosport 1
-http://skyiptv.ddns.net:8000/live/edi/edi/91.ts
-#EXTINF:0,UK ESPN
-http://skyiptv.ddns.net:8000/live/edi/edi/92.ts
-#EXTINF:0,UK Drama
-http://skyiptv.ddns.net:8000/live/edi/edi/94.ts
-#EXTINF:0,UK Dmax
-http://skyiptv.ddns.net:8000/live/edi/edi/95.ts
-#EXTINF:0,UK Disney Junior
-http://skyiptv.ddns.net:8000/live/edi/edi/96.ts
-#EXTINF:0,UK Disney Channel
-http://skyiptv.ddns.net:8000/live/edi/edi/97.ts
-#EXTINF:0,UK Discovery Science
-http://skyiptv.ddns.net:8000/live/edi/edi/98.ts
-#EXTINF:0,UK Discovery Investigation
-http://skyiptv.ddns.net:8000/live/edi/edi/99.ts
-#EXTINF:0,UK Discovery History
-http://skyiptv.ddns.net:8000/live/edi/edi/100.ts
-#EXTINF:0,UK Dave
-http://skyiptv.ddns.net:8000/live/edi/edi/101.ts
-#EXTINF:0,UK Channel 4
-http://skyiptv.ddns.net:8000/live/edi/edi/102.ts
-#EXTINF:0,UK BT Sports 2
-http://skyiptv.ddns.net:8000/live/edi/edi/103.ts
-#EXTINF:0,UK BT Sports 1
-http://skyiptv.ddns.net:8000/live/edi/edi/104.ts
-#EXTINF:0,UK Boxnation
-http://skyiptv.ddns.net:8000/live/edi/edi/105.ts
-#EXTINF:0,UK BBC 1
-http://skyiptv.ddns.net:8000/live/edi/edi/109.ts
-#EXTINF:0,UK BBC 2
-http://skyiptv.ddns.net:8000/live/edi/edi/108.ts
-#EXTINF:0,UK BBC 3
-http://skyiptv.ddns.net:8000/live/edi/edi/107.ts
-#EXTINF:0,UK BBC 4
-http://skyiptv.ddns.net:8000/live/edi/edi/106.ts
-#EXTINF:0,UK At The Races
-http://skyiptv.ddns.net:8000/live/edi/edi/110.ts
-#EXTINF:0,UK Animal Planet
-http://skyiptv.ddns.net:8000/live/edi/edi/111.ts
-#EXTINF:0,UK Alibi
-http://skyiptv.ddns.net:8000/live/edi/edi/112.ts
-#EXTINF:0,UK 5 Star
-http://skyiptv.ddns.net:8000/live/edi/edi/113.ts
-#EXTINF:0,UK 3e
-http://skyiptv.ddns.net:8000/live/edi/edi/114.ts
-#EXTINF:0,UK  Travel Channel
-http://skyiptv.ddns.net:8000/live/edi/edi/115.ts
-#EXTINF:0,#########    Turk      #######
-http://skyiptv.ddns.net:8000/live/edi/edi/639.ts
-#EXTINF:0,TR-Moviemax Premiere HD
-http://skyiptv.ddns.net:8000/live/edi/edi/625.ts
-#EXTINF:0,TR-Movie Smart Platinum HD
-http://skyiptv.ddns.net:8000/live/edi/edi/624.ts
-#EXTINF:0,TR-DREAM TV
-http://skyiptv.ddns.net:8000/live/edi/edi/623.ts
-#EXTINF:0,TR: YABAN TV
-http://skyiptv.ddns.net:8000/live/edi/edi/228.ts
-#EXTINF:0,TR: TRT SPOR
-http://skyiptv.ddns.net:8000/live/edi/edi/229.ts
-#EXTINF:0,TR: sinema  hd
-http://skyiptv.ddns.net:8000/live/edi/edi/230.ts
-#EXTINF:0,TR: KANAL TURK
-http://skyiptv.ddns.net:8000/live/edi/edi/233.ts
-#EXTINF:0,TR: Kanal 7
-http://skyiptv.ddns.net:8000/live/edi/edi/234.ts
-#EXTINF:0,TR: Beyaz TV
-http://skyiptv.ddns.net:8000/live/edi/edi/235.ts
-#EXTINF:0,TR: Salon 3
-http://skyiptv.ddns.net:8000/live/edi/edi/237.ts
-#EXTINF:0,TR TRT 1
-http://skyiptv.ddns.net:8000/live/edi/edi/227.ts
-#EXTINF:0,TR Salon 1
-http://skyiptv.ddns.net:8000/live/edi/edi/239.ts
-#EXTINF:0,TR Salon 2
-http://skyiptv.ddns.net:8000/live/edi/edi/238.ts
-#EXTINF:0,### SPORTS CHANNELS ###
-http://skyiptv.ddns.net:8000/live/edi/edi/240.ts
-#EXTINF:0,SPORTS Sport Klub 1
-http://skyiptv.ddns.net:8000/live/edi/edi/243.ts
-#EXTINF:0,SPORTS Sport Klub 2
-http://skyiptv.ddns.net:8000/live/edi/edi/242.ts
-#EXTINF:0,SPORTS Sport Klub 3
-http://skyiptv.ddns.net:8000/live/edi/edi/241.ts
-#EXTINF:0,SPORTS LIG TV1
-http://skyiptv.ddns.net:8000/live/edi/edi/246.ts
-#EXTINF:0,SPORTS LIG TV2
-http://skyiptv.ddns.net:8000/live/edi/edi/245.ts
-#EXTINF:0,SPORTS LIG TV3
-http://skyiptv.ddns.net:8000/live/edi/edi/244.ts
-#EXTINF:0,SPORTS Arena sport 1
-http://skyiptv.ddns.net:8000/live/edi/edi/254.ts
-#EXTINF:0,SPORTS Arena sport 2
-http://skyiptv.ddns.net:8000/live/edi/edi/253.ts
-#EXTINF:0,SPORTS Arena sport 3
-http://skyiptv.ddns.net:8000/live/edi/edi/252.ts
-#EXTINF:0,SPORTS Arena sport 4
-http://skyiptv.ddns.net:8000/live/edi/edi/251.ts
-#EXTINF:0,SPORTS Arena sport 5
-http://skyiptv.ddns.net:8000/live/edi/edi/250.ts
-#EXTINF:0,########SPAIN######
-http://skyiptv.ddns.net:8000/live/edi/edi/641.ts
-#EXTINF:0,SPAIN: SPORT Mania
-http://skyiptv.ddns.net:8000/live/edi/edi/463.ts
-#EXTINF:0,SPAIN: Nova Spain
-http://skyiptv.ddns.net:8000/live/edi/edi/464.ts
-#EXTINF:0,SPAIN: National Geographic Wild Spain
-http://skyiptv.ddns.net:8000/live/edi/edi/465.ts
-#EXTINF:0,SPAIN: National Geographic Spain
-http://skyiptv.ddns.net:8000/live/edi/edi/466.ts
-#EXTINF:0,SPAIN: MTV Spain
-http://skyiptv.ddns.net:8000/live/edi/edi/467.ts
-#EXTINF:0,SPAIN: Hollywood Spain
-http://skyiptv.ddns.net:8000/live/edi/edi/468.ts
-#EXTINF:0,SPAIN: History
-http://skyiptv.ddns.net:8000/live/edi/edi/469.ts
-#EXTINF:0,SPAIN: GOL TV
-http://skyiptv.ddns.net:8000/live/edi/edi/470.ts
-#EXTINF:0,SPAIN: Fox Spain
-http://skyiptv.ddns.net:8000/live/edi/edi/471.ts
-#EXTINF:0,SPAIN: Fox Crime Spain
-http://skyiptv.ddns.net:8000/live/edi/edi/472.ts
-#EXTINF:0,SPAIN: FDF Spain
-http://skyiptv.ddns.net:8000/live/edi/edi/473.ts
-#EXTINF:0,SPAIN: Energy Spain
-http://skyiptv.ddns.net:8000/live/edi/edi/474.ts
-#EXTINF:0,SPAIN: Disney XD
-http://skyiptv.ddns.net:8000/live/edi/edi/475.ts
-#EXTINF:0,SPAIN: Disney Channel
-http://skyiptv.ddns.net:8000/live/edi/edi/476.ts
-#EXTINF:0,SPAIN: Canal   Toros
-http://skyiptv.ddns.net:8000/live/edi/edi/477.ts
-#EXTINF:0,SPAIN: Canal   Liga
-http://skyiptv.ddns.net:8000/live/edi/edi/479.ts
-#EXTINF:0,SPAIN: Canal   Golf
-http://skyiptv.ddns.net:8000/live/edi/edi/480.ts
-#EXTINF:0,SPAIN: Canal   Futbol
-http://skyiptv.ddns.net:8000/live/edi/edi/481.ts
-#EXTINF:0,SPAIN: Canal   Dcine
-http://skyiptv.ddns.net:8000/live/edi/edi/482.ts
-#EXTINF:0,SPAIN: Canal   Comedia
-http://skyiptv.ddns.net:8000/live/edi/edi/483.ts
-#EXTINF:0,SPAIN: Canal   1
-http://skyiptv.ddns.net:8000/live/edi/edi/484.ts
-#EXTINF:0,SPAIN: Boing Spain
-http://skyiptv.ddns.net:8000/live/edi/edi/485.ts
-#EXTINF:0,SPAIN: Barca TV
-http://skyiptv.ddns.net:8000/live/edi/edi/486.ts
-#EXTINF:0,SPAIN: AXN White Spain
-http://skyiptv.ddns.net:8000/live/edi/edi/487.ts
-#EXTINF:0,SPAIN: AXN Spain
-http://skyiptv.ddns.net:8000/live/edi/edi/488.ts
-#EXTINF:0,SPAIN: A&E Spain
-http://skyiptv.ddns.net:8000/live/edi/edi/489.ts
-#EXTINF:0,#### PT ########
-http://skyiptv.ddns.net:8000/live/edi/edi/640.ts
-#EXTINF:0,PT EUROSPORT 1
-http://skyiptv.ddns.net:8000/live/edi/edi/690.ts
-#EXTINF:0,PT Euro News
-http://skyiptv.ddns.net:8000/live/edi/edi/701.ts
-#EXTINF:0,PT BBC
-http://skyiptv.ddns.net:8000/live/edi/edi/694.ts
-#EXTINF:0,PT AXN White
-http://skyiptv.ddns.net:8000/live/edi/edi/695.ts
-#EXTINF:0,PT: TVI
-http://skyiptv.ddns.net:8000/live/edi/edi/417.ts
-#EXTINF:0,PT: TVCine 1
-http://skyiptv.ddns.net:8000/live/edi/edi/421.ts
-#EXTINF:0,PT: TVCine 2
-http://skyiptv.ddns.net:8000/live/edi/edi/420.ts
-#EXTINF:0,PT: TVCine 3
-http://skyiptv.ddns.net:8000/live/edi/edi/419.ts
-#EXTINF:0,PT: TVCine 4
-http://skyiptv.ddns.net:8000/live/edi/edi/418.ts
-#EXTINF:0,PT: TV Record
-http://skyiptv.ddns.net:8000/live/edi/edi/422.ts
-#EXTINF:0,PT: Syfy
-http://skyiptv.ddns.net:8000/live/edi/edi/423.ts
-#EXTINF:0,PT: SIC Noticias
-http://skyiptv.ddns.net:8000/live/edi/edi/424.ts
-#EXTINF:0,PT: SIC K
-http://skyiptv.ddns.net:8000/live/edi/edi/425.ts
-#EXTINF:0,PT: SIC
-http://skyiptv.ddns.net:8000/live/edi/edi/426.ts
-#EXTINF:0,PT: RTP 1
-http://skyiptv.ddns.net:8000/live/edi/edi/428.ts
-#EXTINF:0,PT: RTP 2
-http://skyiptv.ddns.net:8000/live/edi/edi/427.ts
-#EXTINF:0,PT: PFC
-http://skyiptv.ddns.net:8000/live/edi/edi/429.ts
-#EXTINF:0,PT: Odisseia
-http://skyiptv.ddns.net:8000/live/edi/edi/430.ts
-#EXTINF:0,PT: Nat. Geographic
-http://skyiptv.ddns.net:8000/live/edi/edi/431.ts
-#EXTINF:0,PT: TV GLOBO PREMIUM
-http://skyiptv.ddns.net:8000/live/edi/edi/433.ts
-#EXTINF:0,PT: FOX
-http://skyiptv.ddns.net:8000/live/edi/edi/434.ts
-#EXTINF:0,PT: CM TV
-http://skyiptv.ddns.net:8000/live/edi/edi/436.ts
-#EXTINF:0,PT: Canal Panda
-http://skyiptv.ddns.net:8000/live/edi/edi/438.ts
-#EXTINF:0,PT: Canal Historia
-http://skyiptv.ddns.net:8000/live/edi/edi/439.ts
-#EXTINF:0,PT: A BOLA TV
-http://skyiptv.ddns.net:8000/live/edi/edi/440.ts
-#EXTINF:0,PT Sport TV 2
-http://skyiptv.ddns.net:8000/live/edi/edi/415.ts
-#EXTINF:0,IT Rai Sport 1
-http://skyiptv.ddns.net:8000/live/edi/edi/676.ts
-#EXTINF:0,IT Rai Sport 2 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/677.ts
-#EXTINF:0,PT Benfica TV1
-http://skyiptv.ddns.net:8000/live/edi/edi/416.ts
-#EXTINF:0,PT: BENFICA 2 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/674.ts
-#EXTINF:0,PT : Discovery Channel
-http://skyiptv.ddns.net:8000/live/edi/edi/442.ts
-#EXTINF:0,PT : Cinemundo
-http://skyiptv.ddns.net:8000/live/edi/edi/443.ts
-#EXTINF:0,####### NEDHERLAND #######
-http://skyiptv.ddns.net:8000/live/edi/edi/175.ts
-#EXTINF:0,Sport1 Voetbal HD
-http://skyiptv.ddns.net:8000/live/edi/edi/516.ts
-#EXTINF:0,RTL 4 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/515.ts
-#EXTINF:0,Omroep Zeeland
-http://skyiptv.ddns.net:8000/live/edi/edi/519.ts
-#EXTINF:0,NPO 1 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/511.ts
-#EXTINF:0,NPO 2 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/182.ts
-#EXTINF:0,NPO 3 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/176.ts
-#EXTINF:0,HBO 1 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/512.ts
-#EXTINF:0,HBO 2 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/513.ts
-#EXTINF:0,HBO 3 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/514.ts
-#EXTINF:0,National Geographic Channel HD NL
-http://skyiptv.ddns.net:8000/live/edi/edi/521.ts
-#EXTINF:0,Fox Sports 4 Internationaal
-http://skyiptv.ddns.net:8000/live/edi/edi/526.ts
-#EXTINF:0,Fox Sports 3 Eredivisie
-http://skyiptv.ddns.net:8000/live/edi/edi/525.ts
-#EXTINF:0,Fox Sports 2 International
-http://skyiptv.ddns.net:8000/live/edi/edi/524.ts
-#EXTINF:0,Fox Sports 1 Usa
-http://skyiptv.ddns.net:8000/live/edi/edi/522.ts
-#EXTINF:0,Fox Sports 1 Eredivisie HD
-http://skyiptv.ddns.net:8000/live/edi/edi/523.ts
-#EXTINF:0,Film 1 SunDase
-http://skyiptv.ddns.net:8000/live/edi/edi/528.ts
-#EXTINF:0,Disney Channel NL
-http://skyiptv.ddns.net:8000/live/edi/edi/533.ts
-#EXTINF:0,PINK HORROR
-http://skyiptv.ddns.net:8000/live/edi/edi/341.ts
-#EXTINF:0,PINK comedy
-http://skyiptv.ddns.net:8000/live/edi/edi/346.ts
-#EXTINF:0,### FRENCH CHANNELS: CANAL  ###
-http://skyiptv.ddns.net:8000/live/edi/edi/255.ts
-#EXTINF:0,FR CANAL  SPORT
-http://skyiptv.ddns.net:8000/live/edi/edi/535.ts
-#EXTINF:0,C More Sport
-http://skyiptv.ddns.net:8000/live/edi/edi/542.ts
-#EXTINF:0,(FR): TMC
-http://skyiptv.ddns.net:8000/live/edi/edi/536.ts
-#EXTINF:0,(FR): Canal  Cinema HD
-http://skyiptv.ddns.net:8000/live/edi/edi/538.ts
-#EXTINF:0,(FR): Arte
-http://skyiptv.ddns.net:8000/live/edi/edi/539.ts
-#EXTINF:0,FR TMC
-http://skyiptv.ddns.net:8000/live/edi/edi/273.ts
-#EXTINF:0,FR Syfy
-http://skyiptv.ddns.net:8000/live/edi/edi/274.ts
-#EXTINF:0,FR NRJ 12
-http://skyiptv.ddns.net:8000/live/edi/edi/275.ts
-#EXTINF:0,FR France O
-http://skyiptv.ddns.net:8000/live/edi/edi/276.ts
-#EXTINF:0,FR France 2
-http://skyiptv.ddns.net:8000/live/edi/edi/280.ts
-#EXTINF:0,FR France 3
-http://skyiptv.ddns.net:8000/live/edi/edi/279.ts
-#EXTINF:0,FR France 4
-http://skyiptv.ddns.net:8000/live/edi/edi/278.ts
-#EXTINF:0,FR France 5
-http://skyiptv.ddns.net:8000/live/edi/edi/277.ts
-#EXTINF:0,FR Eurosport 1
-http://skyiptv.ddns.net:8000/live/edi/edi/282.ts
-#EXTINF:0,FR Eurosport 2
-http://skyiptv.ddns.net:8000/live/edi/edi/281.ts
-#EXTINF:0,FR Cine Frisson
-http://skyiptv.ddns.net:8000/live/edi/edi/284.ts
-#EXTINF:0,FR Cine  Premier
-http://skyiptv.ddns.net:8000/live/edi/edi/285.ts
-#EXTINF:0,FR CANAL+
-http://skyiptv.ddns.net:8000/live/edi/edi/262.ts
-#EXTINF:0,FR CANAL  SPORT+
-http://skyiptv.ddns.net:8000/live/edi/edi/261.ts
-#EXTINF:0,FR Canal  Cinema
-http://skyiptv.ddns.net:8000/live/edi/edi/287.ts
-#EXTINF:0,FR BFMTV
-http://skyiptv.ddns.net:8000/live/edi/edi/288.ts
-#EXTINF:0,FR Bein Sport 1
-http://skyiptv.ddns.net:8000/live/edi/edi/290.ts
-#EXTINF:0,FR Bein Sport 2
-http://skyiptv.ddns.net:8000/live/edi/edi/289.ts
-#EXTINF:0,FR Arte
-http://skyiptv.ddns.net:8000/live/edi/edi/291.ts
-#EXTINF:0,FR 5 Plus
-http://skyiptv.ddns.net:8000/live/edi/edi/292.ts
-#EXTINF:0,(FR): TF1 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/271.ts
-#EXTINF:0,(FR): M6 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/272.ts
-#EXTINF:0,CINE CLASSIC
-http://skyiptv.ddns.net:8000/live/edi/edi/263.ts
-#EXTINF:0,Cartoon Network
-http://skyiptv.ddns.net:8000/live/edi/edi/265.ts
-#EXTINF:0,Canal 9
-http://skyiptv.ddns.net:8000/live/edi/edi/266.ts
-#EXTINF:0,C More Live
-http://skyiptv.ddns.net:8000/live/edi/edi/267.ts
-#EXTINF:0,C more Action
-http://skyiptv.ddns.net:8000/live/edi/edi/268.ts
-#EXTINF:0,### GERMAN: SKY DE ###
-http://skyiptv.ddns.net:8000/live/edi/edi/293.ts
-#EXTINF:0,DE: N24
-http://skyiptv.ddns.net:8000/live/edi/edi/295.ts
-#EXTINF:0,DE: AXN
-http://skyiptv.ddns.net:8000/live/edi/edi/297.ts
-#EXTINF:0,DE: ATV 24
-http://skyiptv.ddns.net:8000/live/edi/edi/298.ts
-#EXTINF:0,DE: ARTE.DE
-http://skyiptv.ddns.net:8000/live/edi/edi/299.ts
-#EXTINF:0,DE: ARD
-http://skyiptv.ddns.net:8000/live/edi/edi/300.ts
-#EXTINF:0,DE ZDF
-http://skyiptv.ddns.net:8000/live/edi/edi/306.ts
-#EXTINF:0,DE VOX
-http://skyiptv.ddns.net:8000/live/edi/edi/307.ts
-#EXTINF:0,DE SRF 1
-http://skyiptv.ddns.net:8000/live/edi/edi/308.ts
-#EXTINF:0,DE SPORT TIME TV 2
-http://skyiptv.ddns.net:8000/live/edi/edi/314.ts
-#EXTINF:0,DE SPORT TIME TV 3
-http://skyiptv.ddns.net:8000/live/edi/edi/313.ts
-#EXTINF:0,DE SPORT TIME TV 4
-http://skyiptv.ddns.net:8000/live/edi/edi/312.ts
-#EXTINF:0,DE SPORT TIME TV 5
-http://skyiptv.ddns.net:8000/live/edi/edi/311.ts
-#EXTINF:0,DE SPORT TIME TV 6
-http://skyiptv.ddns.net:8000/live/edi/edi/310.ts
-#EXTINF:0,DE SPORT TIME TV 7
-http://skyiptv.ddns.net:8000/live/edi/edi/309.ts
-#EXTINF:0,DE Sky Sport 1
-http://skyiptv.ddns.net:8000/live/edi/edi/316.ts
-#EXTINF:0,DE Sky Sport 2
-http://skyiptv.ddns.net:8000/live/edi/edi/315.ts
-#EXTINF:0,DE SKY Cinema  24
-http://skyiptv.ddns.net:8000/live/edi/edi/317.ts
-#EXTINF:0,DE SKY Cinema
-http://skyiptv.ddns.net:8000/live/edi/edi/318.ts
-#EXTINF:0,DE SKY Bundesliga
-http://skyiptv.ddns.net:8000/live/edi/edi/319.ts
-#EXTINF:0,DE Sat 1
-http://skyiptv.ddns.net:8000/live/edi/edi/321.ts
-#EXTINF:0,DE RTL 2
-http://skyiptv.ddns.net:8000/live/edi/edi/322.ts
-#EXTINF:0,DE RTL
-http://skyiptv.ddns.net:8000/live/edi/edi/323.ts
-#EXTINF:0,DE Pro 7
-http://skyiptv.ddns.net:8000/live/edi/edi/324.ts
-#EXTINF:0,DE Sky.National.GeographicHD
-http://skyiptv.ddns.net:8000/live/edi/edi/686.ts
-#EXTINF:0,DE National Geographic
-http://skyiptv.ddns.net:8000/live/edi/edi/325.ts
-#EXTINF:0,DE Nat Geo wild
-http://skyiptv.ddns.net:8000/live/edi/edi/326.ts
-#EXTINF:0,DE Kabel 1
-http://skyiptv.ddns.net:8000/live/edi/edi/327.ts
-#EXTINF:0,DE FOX life
-http://skyiptv.ddns.net:8000/live/edi/edi/328.ts
-#EXTINF:0,D-sky emotion
-http://skyiptv.ddns.net:8000/live/edi/edi/302.ts
-#EXTINF:0,D-sky comedy
-http://skyiptv.ddns.net:8000/live/edi/edi/303.ts
-#EXTINF:0,D-sky action
-http://skyiptv.ddns.net:8000/live/edi/edi/305.ts
-#EXTINF:0,DE: Sky Germany Select 1 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/504.ts
-#EXTINF:0,DE: Sky Germany Select 2 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/505.ts
-#EXTINF:0,DE: Sky Germany Select 3 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/506.ts
-#EXTINF:0,DE: Sky Germany Select 4 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/507.ts
-#EXTINF:0,DE: Sky Germany Select 5 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/508.ts
-#EXTINF:0,DE: Sky Germany Select 6 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/509.ts
-#EXTINF:0,Skyde Cinema 1
-http://skyiptv.ddns.net:8000/live/edi/edi/294.ts
-#EXTINF:0,RTL 8 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/179.ts
-#EXTINF:0,RTL 7 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/180.ts
-#EXTINF:0,RTL 5 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/181.ts
-#EXTINF:0,DIGIRO-DIGI SPORT 1
-http://skyiptv.ddns.net:8000/live/edi/edi/607.ts
-#EXTINF:0,### ALBANIAN: TRING DIGITALB SUPERSPORT ###
-http://skyiptv.ddns.net:8000/live/edi/edi/348.ts
-#EXTINF:0,ALBANIA : Vision Plus
-http://skyiptv.ddns.net:8000/live/edi/edi/503.ts
-#EXTINF:0,ALBANIA : Top Channel HD
-http://skyiptv.ddns.net:8000/live/edi/edi/355.ts
-#EXTINF:0,AL Super Sport 1
-http://skyiptv.ddns.net:8000/live/edi/edi/381.ts
-#EXTINF:0,ALBANIA : Supersport 1 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/360.ts
-#EXTINF:0,ALBANIA : Supersport 2 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/359.ts
-#EXTINF:0,ALBANIA : Supersport 3
-http://skyiptv.ddns.net:8000/live/edi/edi/358.ts
-#EXTINF:0,ALBANIA : Supersport 4
-http://skyiptv.ddns.net:8000/live/edi/edi/357.ts
-#EXTINF:0,ALBANIA : Ktv
-http://skyiptv.ddns.net:8000/live/edi/edi/361.ts
-#EXTINF:0,ALBANIA : Klan Kosova
-http://skyiptv.ddns.net:8000/live/edi/edi/362.ts
-#EXTINF:0,ALBANIA : Klan HD
-http://skyiptv.ddns.net:8000/live/edi/edi/363.ts
-#EXTINF:0,ALBANIA : Film Komedi
-http://skyiptv.ddns.net:8000/live/edi/edi/366.ts
-#EXTINF:0,ALBANIA : Film Aksion
-http://skyiptv.ddns.net:8000/live/edi/edi/367.ts
-#EXTINF:0,ALBANIA : Big Brother 2
-http://skyiptv.ddns.net:8000/live/edi/edi/368.ts
-#EXTINF:0,ALBANIA : Alsat M
-http://skyiptv.ddns.net:8000/live/edi/edi/349.ts
-#EXTINF:0,ALBANIA : 21 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/350.ts
-#EXTINF:0,ALBANIA :  Slager TV
-http://skyiptv.ddns.net:8000/live/edi/edi/351.ts
-#EXTINF:0,ALBANIA :  RTK
-http://skyiptv.ddns.net:8000/live/edi/edi/352.ts
-#EXTINF:0,ALBANIA :  Planettv SLO
-http://skyiptv.ddns.net:8000/live/edi/edi/353.ts
-#EXTINF:0,ALBANIA :  NET TV INFO
-http://skyiptv.ddns.net:8000/live/edi/edi/354.ts
-#EXTINF:0,AL Tring World
-http://skyiptv.ddns.net:8000/live/edi/edi/370.ts
-#EXTINF:0,AL Tring Super
-http://skyiptv.ddns.net:8000/live/edi/edi/369.ts
-#EXTINF:0,AL Tring Shqip
-http://skyiptv.ddns.net:8000/live/edi/edi/371.ts
-#EXTINF:0,AL Tring Max
-http://skyiptv.ddns.net:8000/live/edi/edi/372.ts
-#EXTINF:0,AL Tring Life
-http://skyiptv.ddns.net:8000/live/edi/edi/373.ts
-#EXTINF:0,AL Tring History
-http://skyiptv.ddns.net:8000/live/edi/edi/374.ts
-#EXTINF:0,AL Tring Fantasy
-http://skyiptv.ddns.net:8000/live/edi/edi/375.ts
-#EXTINF:0,AL Tring Comedy
-http://skyiptv.ddns.net:8000/live/edi/edi/376.ts
-#EXTINF:0,AL Fox Crime
-http://skyiptv.ddns.net:8000/live/edi/edi/384.ts
-#EXTINF:0,AL Folk
-http://skyiptv.ddns.net:8000/live/edi/edi/385.ts
-#EXTINF:0,AL Film Thriller
-http://skyiptv.ddns.net:8000/live/edi/edi/386.ts
-#EXTINF:0,AL Film Nje
-http://skyiptv.ddns.net:8000/live/edi/edi/387.ts
-#EXTINF:0,AL Film Komedi
-http://skyiptv.ddns.net:8000/live/edi/edi/388.ts
-#EXTINF:0,AL Film Hits
-http://skyiptv.ddns.net:8000/live/edi/edi/389.ts
-#EXTINF:0,AL Film Dy
-http://skyiptv.ddns.net:8000/live/edi/edi/390.ts
-#EXTINF:0,AL Film Drame
-http://skyiptv.ddns.net:8000/live/edi/edi/391.ts
-#EXTINF:0,AL Film Autor
-http://skyiptv.ddns.net:8000/live/edi/edi/392.ts
-#EXTINF:0,AL Film Aktion
-http://skyiptv.ddns.net:8000/live/edi/edi/393.ts
-#EXTINF:0,### BEIN SPORT CHANNELS ###
-http://skyiptv.ddns.net:8000/live/edi/edi/329.ts
-#EXTINF:0,BEIN SPORTS 1 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/491.ts
-#EXTINF:0,BEIN SPORTS 2 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/492.ts
-#EXTINF:0,BEIN SPORTS 3 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/493.ts
-#EXTINF:0,BEIN SPORTS 4 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/494.ts
-#EXTINF:0,BEIN SPORTS 5 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/495.ts
-#EXTINF:0,BEIN SPORTS 6 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/496.ts
-#EXTINF:0,BEIN SPORTS 7 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/497.ts
-#EXTINF:0,BEIN SPORTS 8 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/498.ts
-#EXTINF:0,BEIN SPORTS 9 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/499.ts
-#EXTINF:0,BEIN SPORTS 10 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/500.ts
-#EXTINF:0,#######   Arabic    ##########
-http://skyiptv.ddns.net:8000/live/edi/edi/394.ts
-#EXTINF:0,ARABIC : MBC1
-http://skyiptv.ddns.net:8000/live/edi/edi/397.ts
-#EXTINF:0,ARABIC : MBC2
-http://skyiptv.ddns.net:8000/live/edi/edi/398.ts
-#EXTINF:0,ARABIC :  MBC3
-http://skyiptv.ddns.net:8000/live/edi/edi/399.ts
-#EXTINF:0,AR: MBC 4 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/400.ts
-#EXTINF:0,AR: MBC Masr 1
-http://skyiptv.ddns.net:8000/live/edi/edi/402.ts
-#EXTINF:0,AR: MBC Masr 2
-http://skyiptv.ddns.net:8000/live/edi/edi/401.ts
-#EXTINF:0,ARABIC : MBC Max
-http://skyiptv.ddns.net:8000/live/edi/edi/403.ts
-#EXTINF:0,ARABIC : MBC Drama
-http://skyiptv.ddns.net:8000/live/edi/edi/404.ts
-#EXTINF:0,AR: MBC Pro Sports 1 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/396.ts
-#EXTINF:0,AR: MBC Pro Sports 2 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/395.ts
-#EXTINF:0,AR: Dubai Sport 3 HD
-http://skyiptv.ddns.net:8000/live/edi/edi/405.ts
-#EXTINF:0,AR: Cartoon Network AR
-http://skyiptv.ddns.net:8000/live/edi/edi/406.ts
-#EXTINF:0,AR: CAIRO CINEMA HD
-http://skyiptv.ddns.net:8000/live/edi/edi/407.ts
-#EXTINF:0,AR: B4U PLUS HD
-http://skyiptv.ddns.net:8000/live/edi/edi/408.ts
-#EXTINF:0,AR: AL MANAR
-http://skyiptv.ddns.net:8000/live/edi/edi/410.ts
-#EXTINF:0,AR: AD Sports 1 (UAE)
-http://skyiptv.ddns.net:8000/live/edi/edi/412.ts
-#EXTINF:0,AR: AD Sports 2 (UAE)
-http://skyiptv.ddns.net:8000/live/edi/edi/411.ts
-#EXTINF:0,AR: Nile Drama
-http://skyiptv.ddns.net:8000/live/edi/edi/602.ts
-#EXTINF:0,AR: Nile Sports
-http://skyiptv.ddns.net:8000/live/edi/edi/596.ts
-#EXTINF:0,AR-Nile Cinema
-http://skyiptv.ddns.net:8000/live/edi/edi/595.ts
-#EXTINF:0,OSN:MOVIE PREMIER HD
-http://skyiptv.ddns.net:8000/live/edi/edi/667.ts
-#EXTINF:0,OSN:AlYoum
-http://skyiptv.ddns.net:8000/live/edi/edi/671.ts
-#EXTINF:0,OSN--Star-Movies1-HD
-http://skyiptv.ddns.net:8000/live/edi/edi/663.ts
-#EXTINF:0,###ROMANIA####
-http://skyiptv.ddns.net:8000/live/edi/edi/637.ts
-#EXTINF:0,#####Russia#####
-http://skyiptv.ddns.net:8000/live/edi/edi/638.ts
-#EXTINF:0,Russia SPORT
-http://skyiptv.ddns.net:8000/live/edi/edi/444.ts
-#EXTINF:0,Russia Foxlife
-http://skyiptv.ddns.net:8000/live/edi/edi/445.ts
-#EXTINF:0,Russia Fox
-http://skyiptv.ddns.net:8000/live/edi/edi/446.ts
-#EXTINF:0,Russia Eurosport
-http://skyiptv.ddns.net:8000/live/edi/edi/448.ts
-#EXTINF:0,Russia Eurosport 2
-http://skyiptv.ddns.net:8000/live/edi/edi/447.ts
-#EXTINF:0,Rusia Russia 24
-http://skyiptv.ddns.net:8000/live/edi/edi/450.ts
+#EXTM3U,$MODE=IPTV
+#EXTINF:-1,[COLOR yellow]Thank you for subscribing to my youtube channel Kodi/XBMC Tutorial[/COLOR]
+https://youtu.be/jeuVdjQODyg
+#EXTINF:-1,[COLOR yellow] UPDATE 7/12/2015 [/COLOR]
+https://youtu.be/jeuVdjQODyg
+
+#EXTINF:0,Europa Plus
+http://87.248.160.8/edge/smil:europ/playlist.m3u8
+#EXTINF:-1,PL-nSport+
+rtmp://85.10.208.218/live/n2sport
+#EXTINF:0,IT-Sky Calcio  
+http://faton.goldtv.al:8000/live/agroni/agroni/353.ts
+#EXTINF:0,IT-Sky Sport
+http://faton.goldtv.al:8000/live/agroni/agroni/354.ts
+#EXTINF:0,UK-Sky Sport 5 
+http://faton.goldtv.al:8000/live/agroni/agroni/324.ts
+#EXTINF:0,HR-Sport Klub 1
+http://faton.goldtv.al:8000/live/agroni/agroni/322.ts
+#EXTINF:0,HR-Sport Klub 2
+http://faton.goldtv.al:8000/live/agroni/agroni/321.ts
+#EXTINF:0,HR-SportClub 3
+http://faton.goldtv.al:8000/live/agroni/agroni/320.ts
+#EXTINF:0,HR-Arena Sport 4  
+http://faton.goldtv.al:8000/live/agroni/agroni/103.ts
+#EXTINF:0,ATV 
+
+http://195.228.75.97/atvliveedge/_definst_/smil:atvstream.smil/playlist.m3u8
+
+#EXTINF:0,M3
+http://5.2.203.100:8001/1:0:1:77F4:2C3:600:E080000:0:0:0:
+#EXTINF:-1,ORF SPORT + (Austria)
+http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
+#EXTINF:-1,ex-Yu: Nickelodeon
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6083.m3u8
+#EXTINF:-1,ex-Yu: Hayatovci
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6084.m3u8
+#EXTINF:-1,ex-Yu: Federalna
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6087.m3u8
+#EXTINF:-1,ex-Yu: Entertainment Plus
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6082.m3u8
+#EXTINF:-1,ex-Yu: Baby TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6085.m3u8
+#EXTINF:-1,ex-Yu: Al Jazeera Balkans
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6086.m3u8
+#EXTINF:-1,ex-Yu: TV 1-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3168.m3u8
+#EXTINF:-1,ex-Yu: TK Tuzla-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3164.m3u8
+#EXTINF:-1,ex-Yu: SOS Kanal-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3191.m3u8
+#EXTINF:-1,ex-Yu: RTL Kockica
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3167.m3u8
+#EXTINF:-1,ex-Yu: RTL 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3166.m3u8
+#EXTINF:-1,ex-Yu: Pink Sci-Fi & Fantasy
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3201.m3u8
+#EXTINF:-1,ex-Yu: Pink Romance
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3200.m3u8
+#EXTINF:-1,ex-Yu: Pink Plus
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3198.m3u8
+#EXTINF:-1,ex-Yu: Pink Film-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3199.m3u8
+#EXTINF:-1,ex-Yu: OTV Test
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3172.m3u8
+#EXTINF:-1,ex-Yu: N1 Bosna
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3197.m3u8
+#EXTINF:-1,ex-Yu: Moja TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3195.m3u8
+#EXTINF:-1,ex-Yu: MTV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3170.m3u8
+#EXTINF:-1,ex-Yu: Lov I Ribolov
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3196.m3u8
+#EXTINF:-1,ex-Yu: Klasik TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3194.m3u8
+#EXTINF:-1,ex-Yu: Mini Kids
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3176.m3u8
+#EXTINF:-1,ex-Yu: Hayat Folk
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3163.m3u8
+#EXTINF:-1,ex-Yu: ATV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3162.m3u8
+#EXTINF:-1,ex-Yu: Happy TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3192.m3u8
+#EXTINF:-1,ex-Yu: FTV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3161.m3u8
+#EXTINF:-1,ex-Yu: Sport Channel
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3187.m3u8
+#EXTINF:-1,ex-Yu: Face TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3165.m3u8
+#EXTINF:-1,ex-Yu: Duga TV-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3193.m3u8
+#EXTINF:-1,ex-Yu: DM Sat
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3173.m3u8
+#EXTINF:-1,ex-Yu: CMC Music
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3171.m3u8
+#EXTINF:-1,ex-Yu: CineStar Action TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3180.m3u8
+#EXTINF:-1,ex-Yu: BN Sat
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3175.m3u8
+#EXTINF:-1,ex-Yu: BN Music
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3174.m3u8
+#EXTINF:-1,ex-Yu: ATV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3188.m3u8
+#EXTINF:-1,ex-Yu: ArenaSport 5 SRB
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3186.m3u8
+#EXTINF:-1,ex-Yu: ArenaSport 4 SRB
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3185.m3u8
+#EXTINF:-1,ex-Yu: ArenaSport 3 SRB
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3184.m3u8
+#EXTINF:-1,ex-Yu: ArenaSport 2 SRB
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3183.m3u8
+#EXTINF:-1,ex-Yu: ArenaSport 1 SRB
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3182.m3u8
+#EXTINF:-1,ex-Yu: Animal Planet
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3178.m3u8
+#EXTINF:-1,ex-Yu: AL Jazeera
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3189.m3u8
+#EXTINF:-1,ex-Yu: SportKlub 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1442.m3u8
+#EXTINF:-1,ex-Yu: SportKlub 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1441.m3u8
+#EXTINF:-1,ex-Yu: SportKlub 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1440.m3u8
+#EXTINF:-1,ex-Yu: RTS 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1464.m3u8
+#EXTINF:-1,ex-Yu: RTS 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1463.m3u8
+#EXTINF:-1,ex-Yu: RTL
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1461.m3u8
+#EXTINF:-1,ex-Yu: Prva TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1460.m3u8
+#EXTINF:-1,ex-Yu: Prva Srbska-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2026.m3u8
+#EXTINF:-1,ex-Yu: Prva Plus
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1459.m3u8
+#EXTINF:-1,ex-Yu: Pink Zabava
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2028.m3u8
+#EXTINF:-1,ex-Yu: Pink Western
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2050.m3u8
+#EXTINF:-1,ex-Yu: Pink Thriller
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2040.m3u8
+#EXTINF:-1,ex-Yu: Pink Soap
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2049.m3u8
+#EXTINF:-1,ex-Yu: Pink Sci-fi & Fantasy 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2031.m3u8
+#EXTINF:-1,ex-Yu: Pink Romance 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2032.m3u8
+#EXTINF:-1,ex-Yu: Pink Reality
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2048.m3u8
+#EXTINF:-1,ex-Yu: Pink Premium
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2029.m3u8
+#EXTINF:-1,ex-Yu: Pink M
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2033.m3u8
+#EXTINF:-1,ex-Yu: Super Kids
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2047.m3u8
+#EXTINF:-1,ex-Yu: B 92
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2035.m3u8
+#EXTINF:-1,ex-Yu: Pink 2-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2030.m3u8
+#EXTINF:-1,ex-Yu: Pink Folk 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2037.m3u8
+#EXTINF:-1,ex-Yu: Pink Extra
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2046.m3u8
+#EXTINF:-1,ex-Yu: Pink Crime & Mystery
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2039.m3u8
+#EXTINF:-1,ex-Yu: Pink Comedy
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2045.m3u8
+#EXTINF:-1,ex-Yu: Pink BIH
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1474.m3u8
+#EXTINF:-1,ex-Yu: Pink Action
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2041.m3u8
+#EXTINF:-1,ex-Yu: Pink 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2044.m3u8
+#EXTINF:-1,ex-Yu: Pink 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2043.m3u8
+#EXTINF:-1,ex-Yu: Pink 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2042.m3u8
+#EXTINF:-1,ex-Yu: OndaTV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2024.m3u8
+#EXTINF:-1,ex-Yu: OBN
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1458.m3u8
+#EXTINF:-1,ex-Yu: Nova TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1457.m3u8
+#EXTINF:-1,ex-Yu: Nat Geo Channel
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1472.m3u8
+#EXTINF:-1,ex-Yu: Kanal D Turk
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1473.m3u8
+#EXTINF:-1,ex-Yu: HRT 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2027.m3u8
+#EXTINF:-1,ex-Yu: HRT 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1456.m3u8
+#EXTINF:-1,ex-Yu: HRT 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1455.m3u8
+#EXTINF:-1,ex-Yu: History Channel
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1454.m3u8
+#EXTINF:-1,ex-Yu: HBO Comedy
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1453.m3u8
+#EXTINF:-1,ex-Yu: HBO Adria
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1452.m3u8
+#EXTINF:-1,ex-Yu: Hayat Plus-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1471.m3u8
+#EXTINF:-1,ex-Yu: Hayat Folk SR
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2021.m3u8
+#EXTINF:-1,ex-Yu: Hayat BIH
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1470.m3u8
+#EXTINF:-1,ex-Yu: Grand TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1475.m3u8
+#EXTINF:-1,ex-Yu: Fox TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1448.m3u8
+#EXTINF:-1,ex-Yu: Fox Movies
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1451.m3u8
+#EXTINF:-1,ex-Yu: Fox Life
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1450.m3u8
+#EXTINF:-1,ex-Yu: Fox Crime
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1449.m3u8
+#EXTINF:-1,ex-Yu: EuroSport 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1444.m3u8
+#EXTINF:-1,ex-Yu: EuroSport 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1443.m3u8
+#EXTINF:-1,ex-Yu: E News
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1467.m3u8
+#EXTINF:-1,ex-Yu: Doma TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1446.m3u8
+#EXTINF:-1,ex-Yu: Discovery Channel
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1445.m3u8
+#EXTINF:-1,ex-Yu: CineStar Premiere 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1469.m3u8
+#EXTINF:-1,ex-Yu: CineStar Premiere 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1468.m3u8
+#EXTINF:-1,ex-Yu: CineMax 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2023.m3u8
+#EXTINF:-1,ex-Yu: CineMax 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2022.m3u8
+#EXTINF:-1,ex-Yu: BHT 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1447.m3u8
+#EXTINF:-1,ex-Yu: B 92
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1465.m3u8
+#EXTINF:-1,ex-Yu: ArenaSport 4
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1439.m3u8
+#EXTINF:-1,ex-Yu: ArenaSport 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1438.m3u8
+#EXTINF:-1,ex-Yu: ArenaSport 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1437.m3u8
+#EXTINF:-1,ex-Yu: ArenaSport 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1436.m3u8
+#EXTINF:-1,ex-Yu: 24 Kitchen
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1476.m3u8
+#EXTINF:-1,AF: Sulavision-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6814.m3u8
+#EXTINF:-1,AF: Sikka TV-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6813.m3u8
+#EXTINF:-1,AF: Tele 50 Congo-
+http://cdnhd.oraolive.com:8081/tele50webtv/playlist.m3u8
+
+#EXTINF:-1,AF: RTNC Congo-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6812.m3u8
+#EXTINF:-1,AF: RTI 2-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6811.m3u8
+#EXTINF:-1,AF: RTI 1 Cote Divoir-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6810.m3u8
+#EXTINF:-1,AF: RTGA-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6809.m3u8
+#EXTINF:-1,AF: NTV LC 2 Musique-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6808.m3u8
+#EXTINF:-1,AF: NollyWood Movies-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6807.m3u8
+#EXTINF:-1,AF: NollyWood FR-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6806.m3u8
+#EXTINF:-1,AF: Maïsha-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6805.m3u8
+#EXTINF:-1,AF: KTN -
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6804.m3u8
+#EXTINF:-1,AF: Gabon TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6803.m3u8
+#EXTINF:-1,AF: Fusion Plus
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6802.m3u8
+#EXTINF:-1,AF: Equinoxe-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6801.m3u8
+#EXTINF:-1,AF: DigiTal Congo
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6800.m3u8
+#EXTINF:-1,AF: D24 Senegal-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6799.m3u8
+#EXTINF:-1,AF: CRTV Cameroun-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6798.m3u8
+#EXTINF:-1,AF: Ann 7
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6797.m3u8
+#EXTINF:-1,AF: Afrique Media-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6796.m3u8
+#EXTINF:-1,AF: Africa Nigeria-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6795.m3u8
+#EXTINF:-1,AF: Africa 24-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6794.m3u8
+#EXTINF:-1,AF: TeleCongo-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5797.m3u8
+#EXTINF:-1,AF: NollyWood  TV-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5802.m3u8
+#EXTINF:-1,AF: Ghana Diaspora-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5801.m3u8
+#EXTINF:-1,AF: Fusion Plus TV-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5799.m3u8
+#EXTINF:-1,AF: Channels 24-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5800.m3u8
+#EXTINF:-1,AF: Ben TV-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5796.m3u8
+#EXTINF:-1,AF: 2 STV-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5795.m3u8
+#EXTINF:-1,AL: Dasma TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7076.m3u8
+#EXTINF:-1,AL: Tring Fox
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7061.m3u8
+#EXTINF:-1,AL: E!
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7072.m3u8
+#EXTINF:-1,AL: Tip TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7063.m3u8
+#EXTINF:-1,AL: T HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7055.m3u8
+#EXTINF:-1,AL: Sharri TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7052.m3u8
+#EXTINF:-1,AL: RTV Islam-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7056.m3u8
+#EXTINF:-1,AL: Peace TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7064.m3u8
+#EXTINF:-1,AL: 3+ Music
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7068.m3u8
+#EXTINF:-1,AL: M1 Film-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7075.m3u8
+#EXTINF:-1,AL: Ora News
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7066.m3u8
+#EXTINF:-1,AL: My Music 
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7070.m3u8
+#EXTINF:-1,AL: Mad Albania
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7062.m3u8
+#EXTINF:-1,AL: Living HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7071.m3u8
+#EXTINF:-1,AL: KTV Kohavision
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7065.m3u8
+#EXTINF:-1,AL: Islam Channel ENG
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7074.m3u8
+#EXTINF:-1,AL: Film Plus 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7069.m3u8
+#EXTINF:-1,AL: Elrodi
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7073.m3u8
+#EXTINF:-1,AL: ALB UK-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7060.m3u8
+#EXTINF:-1,AL: A1 Report-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7067.m3u8
+#EXTINF:-1,AL: 3 Plus HD Music
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7051.m3u8
+#EXTINF:-1,AL: Tring Smile-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6258.m3u8
+#EXTINF:-1,AL: RTV 21 Popullore-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6257.m3u8
+#EXTINF:-1,AL: Stv Folk-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6260.m3u8
+#EXTINF:-1,AL: BBF-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6261.m3u8
+#EXTINF:-1,AL: Alsat M-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6259.m3u8
+#EXTINF:-1,AL: ABC News-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6263.m3u8
+#EXTINF:-1,AL: TVSH-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6090.m3u8
+#EXTINF:-1,AL: Rtv Besa-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7005.m3u8
+#EXTINF:-1,AL: RRokum
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7006.m3u8
+#EXTINF:-1,AL: Opoja Tv-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7004.m3u8
+#EXTINF:-1,AL: Camel Tv
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7036.m3u8
+#EXTINF:-1,AL: BB11 MUSIC HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7037.m3u8
+#EXTINF:-1,AL: Jug Tv-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7035.m3u8
+#EXTINF:-1,AL: Tring Planet
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6088.m3u8
+#EXTINF:-1,AL: Tring World
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4213.m3u8
+#EXTINF:-1,AL: Tring Vizion Plus
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4214.m3u8
+#EXTINF:-1,AL: Tring Tring
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4215.m3u8
+#EXTINF:-1,AL: Tring Tirana TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4216.m3u8
+#EXTINF:-1,AL: Tring Super
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4218.m3u8
+#EXTINF:-1,AL: Tring Shqip
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4219.m3u8
+#EXTINF:-1,AL: Tring RTV 21 Plus
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4221.m3u8
+#EXTINF:-1,AL: Tring Max
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4223.m3u8
+#EXTINF:-1,AL: Tring Life
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4224.m3u8
+#EXTINF:-1,AL: Tring KTV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4225.m3u8
+#EXTINF:-1,AL: Tring Junior TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4226.m3u8
+#EXTINF:-1,AL: Tring Jolly HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4227.m3u8
+#EXTINF:-1,AL: Tring History
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4228.m3u8
+#EXTINF:-1,AL: Tring Folk Plus
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4229.m3u8
+#EXTINF:-1,AL: Tring Fantasy-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4230.m3u8
+#EXTINF:-1,AL: Tring Era TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4231.m3u8
+#EXTINF:-1,AL: Tring Bang Bang
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4235.m3u8
+#EXTINF:-1,AL: Tring Agon Channel-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4236.m3u8
+#EXTINF:-1,AL: Tring 3 Plus
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4237.m3u8
+#EXTINF:-1,AL: Top News-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4209.m3u8
+#EXTINF:-1,AL: Top Channel HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4178.m3u8
+#EXTINF:-1,AL: T Stinet-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4197.m3u8
+#EXTINF:-1,AL: T Channel HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4196.m3u8
+#EXTINF:-1,AL: SuperSport 4 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4201.m3u8
+#EXTINF:-1,AL: SuperSport 3 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4200.m3u8
+#EXTINF:-1,AL: SuperSport 2 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4199.m3u8
+#EXTINF:-1,AL: SuperSport 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4198.m3u8
+#EXTINF:-1,AL: RTV 21 Sat
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4190.m3u8
+#EXTINF:-1,AL: 24Kitchen
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4191.m3u8
+#EXTINF:-1,AL: News 24-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4211.m3u8
+#EXTINF:-1,AL: Klan Kosova
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4189.m3u8
+#EXTINF:-1,AL: FolkLorit
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4205.m3u8
+#EXTINF:-1,AL: Film Thriller
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4193.m3u8
+#EXTINF:-1,AL: Film Drame
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4194.m3u8
+#EXTINF:-1,AL: Explorer Shkencë
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4203.m3u8
+#EXTINF:-1,AL: Explorer Natyra
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4202.m3u8
+#EXTINF:-1,AL: Explorer History
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4204.m3u8
+#EXTINF:-1,AL: Cufo
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4208.m3u8
+#EXTINF:-1,AL: SuperSport Kosova 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3823.m3u8
+#EXTINF:-1,AL: SuperSport Kosova 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3822.m3u8
+#EXTINF:-1,AL: SuperSonic TV-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3810.m3u8
+#EXTINF:-1,AL: Klan HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3800.m3u8
+#EXTINF:-1,AL: Fox Crime-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3814.m3u8
+#EXTINF:-1,AL: First TV-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3802.m3u8
+#EXTINF:-1,AL: Film Nje HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3815.m3u8
+#EXTINF:-1,AL: Film Komedi-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3821.m3u8
+#EXTINF:-1,AL: Film -
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3818.m3u8
+#EXTINF:-1,AL: Film Dy HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3816.m3u8
+#EXTINF:-1,AL: Film Autor-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3803.m3u8
+#EXTINF:-1,AL: Film Aksion-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3820.m3u8
+#EXTINF:-1,AL: Digi Gold PPV-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3793.m3u8
+#EXTINF:-1,AL: BBF Music-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3795.m3u8
+#EXTINF:-1,AL: RTV 21 HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3832.m3u8
+#EXTINF:-1,AL: Tring Comedy-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2054.m3u8
+#EXTINF:-1,AL: RTK-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2053.m3u8
+#EXTINF:-1,AL: Eurosport 2-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2052.m3u8
+#EXTINF:-1,AL: Eurosport 1-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6092.m3u8
+#EXTINF:-1,AR: MBC 1-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5707.m3u8
+#EXTINF:-1,AR: MBC 2-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5708.m3u8
+#EXTINF:-1,AR: MBC 3-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5709.m3u8
+#EXTINF:-1,AR: MBC 4-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5710.m3u8
+#EXTINF:-1,AR: MBC MASR-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5712.m3u8
+#EXTINF:-1,AR: MBC MASR 2-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5715.m3u8
+#EXTINF:-1,AR: MBC DRAMA-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5714.m3u8
+#EXTINF:-1,AR: MBC BOLLYWOOD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5716.m3u8
+#EXTINF:-1,AR: MBC ACTION
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5713.m3u8
+#EXTINF:-1,AR: MBC Pro1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5718.m3u8
+#EXTINF:-1,AR: MBC Pro2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5717.m3u8
+#EXTINF:-1,AR: MBC Pro3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5723.m3u8
+#EXTINF:-1,AR: MBC MAX
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5711.m3u8
+#EXTINF:-1,AR: ROTANA MUSIC
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5794.m3u8
+#EXTINF:-1,AR: ROTANA MASRIYA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5793.m3u8
+#EXTINF:-1,AR: ROTANA KHALIJI
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5792.m3u8
+#EXTINF:-1,AR: ROTANA CLIP
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5791.m3u8
+#EXTINF:-1,AR: ROTANA CLASSIC
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5790.m3u8
+#EXTINF:-1,AR: ROTANA CINEMA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5789.m3u8
+#EXTINF:-1,AR: ROTANA AFLAM-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5788.m3u8
+#EXTINF:-1,AR: NAT GEO AD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5787.m3u8
+#EXTINF:-1,AR: ART HEKAYAT 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5784.m3u8
+#EXTINF:-1,AR: ART HEKAYAT
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5783.m3u8
+#EXTINF:-1,AR: ART CINEMA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5782.m3u8
+#EXTINF:-1,AR: ART AFLAM 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5786.m3u8
+#EXTINF:-1,AR: ART AFLAM 1-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5785.m3u8
+#EXTINF:-1,AR: ZEEALWEN
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5780.m3u8
+#EXTINF:-1,AR: ABU DHABI SPOR-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5779.m3u8
+#EXTINF:-1,AR: Medi 1 Sat-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6080.m3u8
+#EXTINF:-1,AR: Arriadia Maroc
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6081.m3u8
+#EXTINF:-1,AR: Al Maghribia
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6079.m3u8
+#EXTINF:-1,AR:ZITOUNA HEDAYA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6272.m3u8
+#EXTINF:-1,AR:ZAYTOONA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6271.m3u8
+#EXTINF:-1,AR:TUNISIA NATIONAL 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6265.m3u8
+#EXTINF:-1,AR:TUNISIA NATIONAL 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6264.m3u8
+#EXTINF:-1,AR: IRAQ SPORT
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6270.m3u8
+#EXTINF:-1,AR:TUNISIA NATIONAL 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6274.m3u8
+#EXTINF:-1,AR:TELVZA TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6275.m3u8
+#EXTINF:-1,AR:RUSSIA ALYAUM
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6292.m3u8
+#EXTINF:-1,AR:NESSMA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6267.m3u8
+#EXTINF:-1,AR: STL
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6277.m3u8
+#EXTINF:-1,AR:HANIBAL
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6268.m3u8
+#EXTINF:-1,AR:FRANCE 24 ARABIA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6287.m3u8
+#EXTINF:-1,AR:FIRST TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6278.m3u8
+#EXTINF:-1,AR: TUNSIA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6269.m3u8
+#EXTINF:-1,AR:EL HIWAR ETTOUNSI
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6266.m3u8
+#EXTINF:-1,AR:ATTASSIA TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6273.m3u8
+#EXTINF:-1,AR:ALKASS SPORT 4 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6285.m3u8
+#EXTINF:-1,AR:ALKASS SPORT 3 HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6284.m3u8
+#EXTINF:-1,AR:ALKASS SPORT 2 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6283.m3u8
+#EXTINF:-1,AR:ALKASS SPORT 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6282.m3u8
+#EXTINF:-1,AR:ALJAZEERA ENGLISH
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6291.m3u8
+#EXTINF:-1,AR:ALJAZEERA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6288.m3u8
+#EXTINF:-1,AR: IQRAA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6279.m3u8
+#EXTINF:-1,AR: Quran
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6280.m3u8
+#EXTINF:-1,AR:AL MAYADEN NEWS
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6293.m3u8
+#EXTINF:-1,AR:AL JANOUBIA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6281.m3u8
+#EXTINF:-1,AR:AL IRAQIA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6276.m3u8
+#EXTINF:-1,AR:AL ARABIYA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6289.m3u8
+#EXTINF:-1,AR:AL ARABIA HADATH
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6290.m3u8
+#EXTINF:-1,AR: BBC ARABIC
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6286.m3u8
+#EXTINF:-1,AR: Al Aoula Maroc
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6078.m3u8
+#EXTINF:-1,AR: 2M Moroc
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6077.m3u8
+#EXTINF:-1,AR: ZEE AFLAM
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5770.m3u8
+#EXTINF:-1,AR: TOP MOVIES
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5773.m3u8
+#EXTINF:-1,AR: SYRIA DRAMA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5769.m3u8
+#EXTINF:-1,AR: Cartoon Network
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5771.m3u8
+#EXTINF:-1,AR: OSN YAHALA HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5735.m3u8
+#EXTINF:-1,AR: OSN YAHALA DRAMA HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5737.m3u8
+#EXTINF:-1,AR: Bein 9 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5731.m3u8
+#EXTINF:-1,AR: OSN STAR MOVIES 1 HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5725.m3u8
+#EXTINF:-1,AR: OSN ON DEMAND 1 HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5742.m3u8
+#EXTINF:-1,AR: OSN NATIONAL GEOGRAPHIC HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5749.m3u8
+#EXTINF:-1,AR: OSN NAT GEO WILD HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5752.m3u8
+#EXTINF:-1,AR: OSN MOVIES PREMIERE HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5727.m3u8
+#EXTINF:-1,AR: OSN MOVIES HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5721.m3u8
+#EXTINF:-1,AR: OSN MOVIES First More HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5736.m3u8
+#EXTINF:-1,AR: Bein 11 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5728.m3u8
+#EXTINF:-1,AR: OSN MOVIES DRAMA HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5741.m3u8
+#EXTINF:-1,AR: OSN MOVIES DRAMA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5740.m3u8
+#EXTINF:-1,AR: OSN MOVIES COMEDY HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5724.m3u8
+#EXTINF:-1,AR: OSN MOVIES ACTION HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5722.m3u8
+#EXTINF:-1,AR: OSN Movie kids HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5734.m3u8
+#EXTINF:-1,AR: OSN MBC   DRAMA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5719.m3u8
+#EXTINF:-1,AR: OSN DISCOVERY SCIENCE HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5748.m3u8
+#EXTINF:-1,AR: OSN DISCOVERY ID-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5746.m3u8
+#EXTINF:-1,AR: OSN DISCOVERY HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5747.m3u8
+#EXTINF:-1,AR: OSN ANIMAL PLANET HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5751.m3u8
+#EXTINF:-1,AR: OSN ANIMAL PLANET-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5750.m3u8
+#EXTINF:-1,AR: OSN ALYOUM-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5738.m3u8
+#EXTINF:-1,AR: NILE DRAMA-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5768.m3u8
+#EXTINF:-1,AR: NILE COMEDY-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5767.m3u8
+#EXTINF:-1,AR: NILE CINEMA-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5764.m3u8
+#EXTINF:-1,AR: ALJADEED-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5775.m3u8
+#EXTINF:-1,AR: MTV Lebanon-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5781.m3u8
+#EXTINF:-1,AR: MOGA COMEDY-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5772.m3u8
+#EXTINF:-1,AR: MAZZIKA-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5776.m3u8
+#EXTINF:-1,AR: FUNOON-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5777.m3u8
+#EXTINF:-1,AR: FOX MOVIES-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5756.m3u8
+#EXTINF:-1,AR: DREAM 2-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5755.m3u8
+#EXTINF:-1,AR: Spacetoon-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5774.m3u8
+#EXTINF:-1,AR: LBC Europe
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5753.m3u8
+#EXTINF:-1,AR: CBC SOFRA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5762.m3u8
+#EXTINF:-1,AR: CBC DRAMA-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5763.m3u8
+#EXTINF:-1,AR: CBC 2-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5761.m3u8
+#EXTINF:-1,AR: CBC-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5760.m3u8
+#EXTINF:-1,AR: CAIROCINEMA-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5758.m3u8
+#EXTINF:-1,AR: CAIRO DRAMA-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5759.m3u8
+#EXTINF:-1,AR: AL NAHAR DRAMA-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5757.m3u8
+#EXTINF:-1,AR: BEINSPORT 16 HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4263.m3u8
+#EXTINF:-1,AR: beINSport 9 HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2455.m3u8
+#EXTINF:-1,AR: beINSport 8 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2454.m3u8
+#EXTINF:-1,AR: beINSport 7 HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2453.m3u8
+#EXTINF:-1,AR: beINSport 6 HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2452.m3u8
+#EXTINF:-1,AR: beINSport 5 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2451.m3u8
+#EXTINF:-1,AR: beINSport 4 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2450.m3u8
+#EXTINF:-1,AR: beINSport 3 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2449.m3u8
+#EXTINF:-1,AR: beINSport 2 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2448.m3u8
+#EXTINF:-1,AR: beINSport 15 HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2461.m3u8
+#EXTINF:-1,AR: beINSport 14 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2460.m3u8
+#EXTINF:-1,AR: beINSport 13 HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2459.m3u8
+#EXTINF:-1,AR: BEINSPORT 12 HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4282.m3u8
+#EXTINF:-1,AR: beINSport 11 HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2457.m3u8
+#EXTINF:-1,AR: beINSport 10 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2456.m3u8
+#EXTINF:-1,AR: beINSport 1 HD-
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2447.m3u8
+#EXTINF:-1,DE: Cartoon network
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3841.m3u8
+#EXTINF:-1,DE: RTL II
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3826.m3u8
+#EXTINF:-1,DE: RTL I
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3825.m3u8
+#EXTINF:-1,DE: BR
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3828.m3u8
+#EXTINF:-1,DE: Arte
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3827.m3u8
+#EXTINF:-1,DE: Boomerang
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3621.m3u8
+#EXTINF:-1,DE: Disney Cinemagic
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3622.m3u8
+#EXTINF:-1,DE: ZDF Info HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3438.m3u8
+#EXTINF:-1,DE: ZDF KULTUR HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3453.m3u8
+#EXTINF:-1,DE: Wdr HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3442.m3u8
+#EXTINF:-1,DE: SWR HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3439.m3u8
+#EXTINF:-1,DE: Super RTL
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3456.m3u8
+#EXTINF:-1,DE: EuroSport
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3435.m3u8
+#EXTINF:-1,DE: Sky TNT Serie HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3421.m3u8
+#EXTINF:-1,DE: Sky TNT Film HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3422.m3u8
+#EXTINF:-1,DE: National Geographic HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3419.m3u8
+#EXTINF:-1,DE: Sky NatGeo Wild HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3433.m3u8
+#EXTINF:-1,DE: Sky MGM HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3423.m3u8
+#EXTINF:-1,DE: Sky Krimi
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3429.m3u8
+#EXTINF:-1,DE: Sky 
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3203.m3u8
+#EXTINF:-1,DE: Sky History Channel
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3424.m3u8
+#EXTINF:-1,DE: Sky Fox HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3425.m3u8
+#EXTINF:-1,DE: Sky Discovery Channel HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3426.m3u8
+#EXTINF:-1,DE: Sky Comedy HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3430.m3u8
+#EXTINF:-1,DE: Sky Cinema HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3420.m3u8
+#EXTINF:-1,DE: Sky Cinema  24
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3431.m3u8
+#EXTINF:-1,DE: Sky Cinema  1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3434.m3u8
+#EXTINF:-1,DE: Sky BundesLiga 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3436.m3u8
+#EXTINF:-1,DE: Sky Action HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3432.m3u8
+#EXTINF:-1,DE: Sky 13 Street HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3428.m3u8
+#EXTINF:-1,DE: RTL
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3202.m3u8
+#EXTINF:-1,DE: ProSieben
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3455.m3u8
+#EXTINF:-1,DE: SKY 3D
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3437.m3u8
+#EXTINF:-1,DE: ORF 2 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3447.m3u8
+#EXTINF:-1,DE: SRF1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3446.m3u8
+#EXTINF:-1,DE: Ndr HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3443.m3u8
+#EXTINF:-1,DE: SYFY
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3204.m3u8
+#EXTINF:-1,DE: N24 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3448.m3u8
+#EXTINF:-1,DE: N -TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3449.m3u8
+#EXTINF:-1,DE: SRF2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3440.m3u8
+#EXTINF:-1,DE: Kika HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3450.m3u8
+#EXTINF:-1,DE: Phoenix
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3454.m3u8
+#EXTINF:-1,DE: Eins Plus HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3444.m3u8
+#EXTINF:-1,DE: Arte HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3445.m3u8
+#EXTINF:-1,DE: ARD HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3451.m3u8
+#EXTINF:-1,DE: FOX HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3452.m3u8
+#EXTINF:-1,DE: ZDF
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1629.m3u8
+#EXTINF:-1,DE: VOX
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1630.m3u8
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1480.m3u8
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1479.m3u8
+#EXTINF:-1,DE: Sky Emotion
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1631.m3u8
+#EXTINF:-1,DE: Sky Comedy
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1632.m3u8
+#EXTINF:-1,DE: Sky Cinema Plus 24
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1633.m3u8
+#EXTINF:-1,DE: Sky Cinema
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1634.m3u8
+#EXTINF:-1,DE: Sky BundesLiga HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1478.m3u8
+#EXTINF:-1,DE: Sky Atlantic
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1635.m3u8
+#EXTINF:-1,DE: Sat 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1637.m3u8
+#EXTINF:-1,DE: RTL Nitro
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1639.m3u8
+#EXTINF:-1,DE: Pro 7
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1642.m3u8
+#EXTINF:-1,DE: ORF Eins
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1643.m3u8
+#EXTINF:-1,DE: ORF 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1644.m3u8
+#EXTINF:-1,DE: Atlantic HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1645.m3u8
+#EXTINF:-1,DE: Nat Geo Wild
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1646.m3u8
+#EXTINF:-1,DE: Kika
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1648.m3u8
+#EXTINF:-1,DE: Kabel 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1649.m3u8
+#EXTINF:-1,DE: Fox Life
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1650.m3u8
+#EXTINF:-1,DE: Discovery
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1651.m3u8
+#EXTINF:-1,ES: TVE 24
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5410.m3u8
+#EXTINF:-1,ES: TVE 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5411.m3u8
+#EXTINF:-1,ES: Teledeporte
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5414.m3u8
+#EXTINF:-1,ES: Telecinco
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5415.m3u8
+#EXTINF:-1,ES: Syfy
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5417.m3u8
+#EXTINF:-1,ES: Real Madrid Channel
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5420.m3u8
+#EXTINF:-1,ES: NAT GEO WILD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5476.m3u8
+#EXTINF:-1,ES: Hollywood
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5428.m3u8
+#EXTINF:-1,ES: Moviestar Motogp
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5436.m3u8
+#EXTINF:-1,ES: Canal Toros
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5437.m3u8
+#EXTINF:-1,ES: FOX Life
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5439.m3u8
+#EXTINF:-1,ES: FOX
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5442.m3u8
+#EXTINF:-1,ES: Moviestar F1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5445.m3u8
+#EXTINF:-1,ES: Disney Channel
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5446.m3u8
+#EXTINF:-1,ES: BeinSport
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5447.m3u8
+#EXTINF:-1,ES: Discovery
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5448.m3u8
+#EXTINF:-1,ES: NAT GEO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5455.m3u8
+#EXTINF:-1,ES: Canal  COSINA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5456.m3u8
+#EXTINF:-1,ES: Canal  Liga
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5457.m3u8
+#EXTINF:-1,ES: Canal  Golf
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5458.m3u8
+#EXTINF:-1,ES: Canal  Futbol
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5459.m3u8
+#EXTINF:-1,ES: Canal  Decasa
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5460.m3u8
+#EXTINF:-1,ES: Canal  D Cine
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5461.m3u8
+#EXTINF:-1,ES: Canal  Comedia
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5462.m3u8
+#EXTINF:-1,ES: Canal  Accion
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5463.m3u8
+#EXTINF:-1,ES: Canal  2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5464.m3u8
+#EXTINF:-1,ES: Canal  DEPORTES
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5465.m3u8
+#EXTINF:-1,ES: Canal  1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5467.m3u8
+#EXTINF:-1,ES: Calle 13
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5469.m3u8
+#EXTINF:-1,ES: Barca TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5466.m3u8
+#EXTINF:-1,ES: AXN White
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5470.m3u8
+#EXTINF:-1,ES: AXN
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5471.m3u8
+#EXTINF:-1,ES: Antenna 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5472.m3u8
+#EXTINF:-1,ES: Andalucia
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5473.m3u8
+#EXTINF:-1,ES: A & E
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5474.m3u8
+#EXTINF:-1,ES: 40 TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5475.m3u8
+#EXTINF:-1,FR: TF1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2204.m3u8
+#EXTINF:-1,FR: M6 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3758.m3u8
+#EXTINF:-1,FR: France 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2200.m3u8
+#EXTINF:-1,FR: France 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2201.m3u8
+#EXTINF:-1,FR: France 4
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2202.m3u8
+#EXTINF:-1,FR: France 5
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2203.m3u8
+#EXTINF:-1,FR: France O HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3752.m3u8
+#EXTINF:-1,FR: France 24 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3753.m3u8
+#EXTINF:-1,FR: beINSport HD 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5522.m3u8
+#EXTINF:-1,FR: beINSport 2 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3609.m3u8
+#EXTINF:-1,FR: beINSport 3 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4477.m3u8
+#EXTINF:-1,FR: WéO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4464.m3u8
+#EXTINF:-1,FR: M6 Music HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4476.m3u8
+#EXTINF:-1,FR: Gong
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4471.m3u8
+#EXTINF:-1,FR: TeleToon
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4466.m3u8
+#EXTINF:-1,FR: Sciences & Vie TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4468.m3u8
+#EXTINF:-1,FR: La Une HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4473.m3u8
+#EXTINF:-1,FR: La Deux HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4474.m3u8
+#EXTINF:-1,FR: Ushuaia
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4491.m3u8
+#EXTINF:-1,FR: OL TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4470.m3u8
+#EXTINF:-1,FR: Nat Geo HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4467.m3u8
+#EXTINF:-1,FR: Histoire
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4472.m3u8
+#EXTINF:-1,FR: Gulli
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4465.m3u8
+#EXTINF:-1,FR: D 17
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4459.m3u8
+#EXTINF:-1,FR: Canal Plus Decale HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4460.m3u8
+#EXTINF:-1,FR: Animaux HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4469.m3u8
+#EXTINF:-1,FR: Action HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4507.m3u8
+#EXTINF:-1,FR: W9 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3770.m3u8
+#EXTINF:-1,FR: TV5 Monde Europe HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3769.m3u8
+#EXTINF:-1,FR: RTL 9 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3771.m3u8
+#EXTINF:-1,FR: OCS Max HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3761.m3u8
+#EXTINF:-1,FR: OCS Géanm3u8 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3762.m3u8
+#EXTINF:-1,FR: OCS City HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3763.m3u8
+#EXTINF:-1,FR: NRJ 12 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3760.m3u8
+#EXTINF:-1,FR: Science et Vie TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3757.m3u8
+#EXTINF:-1,FR: EuroNews
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3751.m3u8
+#EXTINF:-1,FR: Enorme TV HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3750.m3u8
+#EXTINF:-1,FR: D8 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3747.m3u8
+#EXTINF:-1,FR: Comedie Plus HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3746.m3u8
+#EXTINF:-1,FR: Ciné Plus Premier HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3739.m3u8
+#EXTINF:-1,FR: Ciné Plus Frisson HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3740.m3u8
+#EXTINF:-1,FR: Ciné Plus Emotion HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3741.m3u8
+#EXTINF:-1,FR: Canal Plus HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3736.m3u8
+#EXTINF:-1,FR: Canal Plus Family HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3735.m3u8
+#EXTINF:-1,FR: Canal Plus Décalé HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3733.m3u8
+#EXTINF:-1,FR: BFM Business HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3731.m3u8
+#EXTINF:-1,FR: Arte HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3726.m3u8
+#EXTINF:-1,FR: AB1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3724.m3u8
+#EXTINF:-1,FR: 6TER HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3723.m3u8
+#EXTINF:-1,FR: National Geo Wild
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3606.m3u8
+#EXTINF:-1,FR: BFM TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3607.m3u8
+#EXTINF:-1,FR: Teva
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2225.m3u8
+#EXTINF:-1,FR: TeleToon Plus
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2238.m3u8
+#EXTINF:-1,FR: TMC
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2218.m3u8
+#EXTINF:-1,FR: Sy-Fy
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2228.m3u8
+#EXTINF:-1,FR: Serie Club HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2221.m3u8
+#EXTINF:-1,FR: Planete Plus HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2247.m3u8
+#EXTINF:-1,FR: Planete Plus CI
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2249.m3u8
+#EXTINF:-1,FR: Planete Plus AE
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2248.m3u8
+#EXTINF:-1,FR: Paris Premiere
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2224.m3u8
+#EXTINF:-1,FR: 13 rue
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2250.m3u8
+#EXTINF:-1,FR: RTL Plug
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2259.m3u8
+#EXTINF:-1,FR:RTL Club
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2258.m3u8
+#EXTINF:-1,FR: Mangas
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2245.m3u8
+#EXTINF:-1,FR: MA Chaine Sport
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2251.m3u8
+#EXTINF:-1,FR: E!
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2229.m3u8
+#EXTINF:-1,FR: Disney Cine Magic
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2244.m3u8
+#EXTINF:-1,FR: Disney Channel
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2241.m3u8
+#EXTINF:-1,FR: D8
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2227.m3u8
+#EXTINF:-1,FR: Comedie Plus
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2220.m3u8
+#EXTINF:-1,FR: Cine Plus Premier HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2213.m3u8
+#EXTINF:-1,FR: Cine Plus Frisson HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2212.m3u8
+#EXTINF:-1,FR: Cine Plus Famiz HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2215.m3u8
+#EXTINF:-1,FR: Cine Plus Emotion HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2214.m3u8
+#EXTINF:-1,FR: Cine Classic HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2217.m3u8
+#EXTINF:-1,FR: Chasse & Peche
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2257.m3u8
+#EXTINF:-1,FR: Cartoon NetWork
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2246.m3u8
+#EXTINF:-1,FR: Canal Plus Sport HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2210.m3u8
+#EXTINF:-1,FR: Canal Plus Series HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2211.m3u8
+#EXTINF:-1,FR: Canal Plus Cinema HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2207.m3u8
+#EXTINF:-1,FR: Canal Plus
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2206.m3u8
+#EXTINF:-1,FR: Canal J
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2239.m3u8
+#EXTINF:-1,FR: BoomeRang
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2240.m3u8
+#EXTINF:-1,FR: Boing
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2237.m3u8
+#EXTINF:-1,FR: EuroSport 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2013.m3u8
+#EXTINF:-1,FR: A LA CARTE 5 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6444.m3u8
+#EXTINF:-1,FR: A LA CARTE 4 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6445.m3u8
+#EXTINF:-1,FR: A LA CARTE 3 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6446.m3u8
+#EXTINF:-1,FR: A LA CARTE 2 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6447.m3u8
+#EXTINF:-1,FR: A LA CARTE 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6448.m3u8
+#EXTINF:-1,GB: BBC 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3580.m3u8
+#EXTINF:-1,GB: BBC 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3581.m3u8
+#EXTINF:-1,GB: BBC 4
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3582.m3u8
+#EXTINF:-1,GB: BBC 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1993.m3u8
+#EXTINF:-1,GB: BBC 2 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1994.m3u8
+#EXTINF:-1,GB: BBC 3 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1995.m3u8
+#EXTINF:-1,GB: BBC 4 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1996.m3u8
+#EXTINF:-1,GB: ITV 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3576.m3u8
+#EXTINF:-1,GB: ITV 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3577.m3u8
+#EXTINF:-1,GB: ITV 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3578.m3u8
+#EXTINF:-1,GB: ITV 4
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3579.m3u8
+#EXTINF:-1,GB: Yesterday
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3962.m3u8
+#EXTINF:-1,GB: 4 seven
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3961.m3u8
+#EXTINF:-1,GB: Sy-Fy
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3939.m3u8
+#EXTINF:-1,GB: More4
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4000.m3u8
+#EXTINF:-1,GB: Sky Movies ShowCase
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3923.m3u8
+#EXTINF:-1,GB: Sky Movies Modern Great HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3925.m3u8
+#EXTINF:-1,GB: Sky Movies Family HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3926.m3u8
+#EXTINF:-1,GB: Sky Movies Disney HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3927.m3u8
+#EXTINF:-1,GB: Really
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3947.m3u8
+#EXTINF:-1,GB: Quest
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3959.m3u8
+#EXTINF:-1,GB: Pick TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3958.m3u8
+#EXTINF:-1,GB: CNN
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3995.m3u8
+#EXTINF:-1,GB: Nick JR
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3963.m3u8
+#EXTINF:-1,GB: Watch UK
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4014.m3u8
+#EXTINF:-1,GB: Mototrs TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4009.m3u8
+#EXTINF:-1,GB: TLC
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4027.m3u8
+#EXTINF:-1,GB: Horror Channel
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3941.m3u8
+#EXTINF:-1,GB: Home
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3993.m3u8
+#EXTINF:-1,GB: Good Food
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3990.m3u8
+#EXTINF:-1,GB: Food Network
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3991.m3u8
+#EXTINF:-1,GB: BBC NEWS
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4020.m3u8
+#EXTINF:-1,GB: Real Live
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4005.m3u8
+#EXTINF:-1,GB: Drama
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3957.m3u8
+#EXTINF:-1,GB: Disney Junior
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3969.m3u8
+#EXTINF:-1,GB: Discovery Turbo
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3978.m3u8
+#EXTINF:-1,GB: Discovery Science HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4069.m3u8
+#EXTINF:-1,GB: Tiny Pop
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3976.m3u8
+#EXTINF:-1,GB: Discovery Investigation
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3982.m3u8
+#EXTINF:-1,GB: Comedy Central
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3948.m3u8
+#EXTINF:-1,GB: CBS Reality
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3946.m3u8
+#EXTINF:-1,GB: CBS Drama
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3945.m3u8
+#EXTINF:-1,GB: CBS Action
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3944.m3u8
+#EXTINF:-1,GB: E!
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3966.m3u8
+#EXTINF:-1,GB: Cartoon NetWork
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3967.m3u8
+#EXTINF:-1,GB: Box Nation
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4010.m3u8
+#EXTINF:-1,GB: Vh1 Classic
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3943.m3u8
+#EXTINF:-1,GB: Alibi
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3954.m3u8
+#EXTINF:-1,GB: 3E
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3953.m3u8
+#EXTINF:-1,GB: Sky Two
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3573.m3u8
+#EXTINF:-1,GB: Sky Thriller
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3575.m3u8
+#EXTINF:-1,GB: Sky Sport F1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3603.m3u8
+#EXTINF:-1,GB: Sky Sport F1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3602.m3u8
+#EXTINF:-1,GB: SKY SPORT 5 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4458.m3u8
+#EXTINF:-1,GB: Sky Sport 5
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3601.m3u8
+#EXTINF:-1,GB: Sky Sport 4 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3600.m3u8
+#EXTINF:-1,GB: Sky Sport 4
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3599.m3u8
+#EXTINF:-1,GB: Sky Sport 3 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3598.m3u8
+#EXTINF:-1,GB: Sky Sport 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3597.m3u8
+#EXTINF:-1,GB: SKY SPORT 2HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5601.m3u8
+#EXTINF:-1,GB: Sky Sport 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3595.m3u8
+#EXTINF:-1,GB: SKY SPORT 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5600.m3u8
+#EXTINF:-1,GB: Setanta Sport
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3583.m3u8
+#EXTINF:-1,GB: Racing
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3585.m3u8
+#EXTINF:-1,GB: Premiere Sport
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3584.m3u8
+#EXTINF:-1,GB: EuroSport 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3591.m3u8
+#EXTINF:-1,GB: EuroSport 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3590.m3u8
+#EXTINF:-1,GB: Eurosport 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1980.m3u8
+#EXTINF:-1,GB: Eurosport 2 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1981.m3u8
+#EXTINF:-1,GB: BT Sport 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3586.m3u8
+#EXTINF:-1,GB: BT Sport 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3588.m3u8
+#EXTINF:-1,GB: BT Sporm3u8 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1991.m3u8
+#EXTINF:-1,GB: BT Sporm3u8 2 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1992.m3u8
+#EXTINF:-1,GB: BT SPORm3u8 EUROPE
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1965.m3u8
+#EXTINF:-1,GB: BT SPORm3u8 EXTRA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2682.m3u8
+#EXTINF:-1,GB: Sky Sport 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3593.m3u8
+#EXTINF:-1,GB: Sky Sci-Fi
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3574.m3u8
+#EXTINF:-1,GB: Sky One
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3571.m3u8
+#EXTINF:-1,GB: Sky News
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3570.m3u8
+#EXTINF:-1,GB: H2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3569.m3u8
+#EXTINF:-1,GB: LiverPool TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3568.m3u8
+#EXTINF:-1,GB: Sky Living
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3567.m3u8
+#EXTINF:-1,GB: Sky Family
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3566.m3u8
+#EXTINF:-1,GB: Sky MOVIE Drama
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3565.m3u8
+#EXTINF:-1,GB: Sky Disney
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3564.m3u8
+#EXTINF:-1,GB: Sky Comedy
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3563.m3u8
+#EXTINF:-1,GB: Sky Atlantic
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3562.m3u8
+#EXTINF:-1,GB: NATIONAL GEOGRAPHIC
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3561.m3u8
+#EXTINF:-1,GB: Sky Action
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3559.m3u8
+#EXTINF:-1,GB: True Movies 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2662.m3u8
+#EXTINF:-1,GB: True Movies 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2661.m3u8
+#EXTINF:-1,GB: Sky pop
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2668.m3u8
+#EXTINF:-1,GB: Nick
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2669.m3u8
+#EXTINF:-1,GB: MUTV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2655.m3u8
+#EXTINF:-1,GB: MTV MUSIC
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2670.m3u8
+#EXTINF:-1,GB: Fox
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2656.m3u8
+#EXTINF:-1,GB: ESPN HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2673.m3u8
+#EXTINF:-1,GB: E4
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2674.m3u8
+#EXTINF:-1,GB: Disney XD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2675.m3u8
+#EXTINF:-1,GB: Discovery World
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2678.m3u8
+#EXTINF:-1,GB: Discovery Science
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2679.m3u8
+#EXTINF:-1,GB: Channel 5
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2680.m3u8
+#EXTINF:-1,GB: Channel 4
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2681.m3u8
+#EXTINF:-1,GB: Animal Planet
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2683.m3u8
+#EXTINF:-1,GB: 5 USA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2652.m3u8
+#EXTINF:-1,GB: Vivo 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1953.m3u8
+#EXTINF:-1,GB: Vivo 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1952.m3u8
+#EXTINF:-1,GB: Vivo 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1951.m3u8
+#EXTINF:-1,GB: Sky Sport News HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1954.m3u8
+#EXTINF:-1,GB: Sky Movies Thriller HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1955.m3u8
+#EXTINF:-1,GB: Sky Movies Sci-Fi HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1957.m3u8
+#EXTINF:-1,GB: Sky Movies Premiere HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1958.m3u8
+#EXTINF:-1,GB: Sky Movies Modern Great
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1959.m3u8
+#EXTINF:-1,GB: Sky Movies Drama HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1960.m3u8
+#EXTINF:-1,GB: Sky Movies Action HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1961.m3u8
+#EXTINF:-1,GB: Bomerang
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1962.m3u8
+#EXTINF:-1,GB: Sky 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1963.m3u8
+#EXTINF:-1,GB: RTE 2 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1967.m3u8
+#EXTINF:-1,GB: RTE 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1966.m3u8
+#EXTINF:-1,GB: National Geography Wild
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1968.m3u8
+#EXTINF:-1,GB: Movies 4 Men
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1971.m3u8
+#EXTINF:-1,GB: Living
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1972.m3u8
+#EXTINF:-1,GB: Gold
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1977.m3u8
+#EXTINF:-1,GB: Five
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1978.m3u8
+#EXTINF:-1,GB: Film 4
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1979.m3u8
+#EXTINF:-1,GB: Dmax
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1983.m3u8
+#EXTINF:-1,GB: Disney Channel
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1984.m3u8
+#EXTINF:-1,GB: Discovery History
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1985.m3u8
+#EXTINF:-1,GB: Discovery
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1986.m3u8
+#EXTINF:-1,GB: Dave
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1987.m3u8
+#EXTINF:-1,GB: Colors
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1988.m3u8
+#EXTINF:-1,GB: Chelsea FC
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1990.m3u8
+#EXTINF:-1,GB: At The Races
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1997.m3u8
+#EXTINF:-1,GR: ZOUGLA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6411.m3u8
+#EXTINF:-1,GR: TV100
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6367.m3u8
+#EXTINF:-1,GR: SKAI
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6370.m3u8
+#EXTINF:-1,GR: SIGMA (CYPRUS)
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6371.m3u8
+#EXTINF:-1,GR: OMEGA TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6356.m3u8
+#EXTINF:-1,GR: MEGA COSMOS (USA)
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6383.m3u8
+#EXTINF:-1,GR: Kino Welt TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3824.m3u8
+#EXTINF:-1,GR: EXTRA (CYPRUS)
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6389.m3u8
+#EXTINF:-1,GR: ALPHA  SAT (USA)
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6394.m3u8
+#EXTINF:-1,GR: AB
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6395.m3u8
+#EXTINF:-1,GR: West Channel
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1582.m3u8
+#EXTINF:-1,GR: VOULI
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1592.m3u8
+#EXTINF:-1,GR: VIMA TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1583.m3u8
+#EXTINF:-1,GR: Tile Sport TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1593.m3u8
+#EXTINF:-1,GR: TELE EPILOGES
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1594.m3u8
+#EXTINF:-1,GR: Star
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2017.m3u8
+#EXTINF:-1,GR: LePanto TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1585.m3u8
+#EXTINF:-1,GR: Kriti TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1611.m3u8
+#EXTINF:-1,GR: Kontra TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1612.m3u8
+#EXTINF:-1,GR: Kissamos TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1586.m3u8
+#EXTINF:-1,GR: Kanali 6 Xanthi
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1597.m3u8
+#EXTINF:-1,GR: IOANNINA TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1598.m3u8
+#EXTINF:-1,GR: Flash TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1599.m3u8
+#EXTINF:-1,GR: Faros Web TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1600.m3u8
+#EXTINF:-1,GR: EXTRA 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1601.m3u8
+#EXTINF:-1,GR: Euronews
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1613.m3u8
+#EXTINF:-1,GR: ET3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1587.m3u8
+#EXTINF:-1,GR: Epsilon
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1614.m3u8
+#EXTINF:-1,GR: Epirus TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1588.m3u8
+#EXTINF:-1,GR: ELLADA TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1602.m3u8
+#EXTINF:-1,GR: CY Sigma
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1616.m3u8
+#EXTINF:-1,GR: CY RIK Sat
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1589.m3u8
+#EXTINF:-1,GR: CY Extra Channel
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1617.m3u8
+#EXTINF:-1,GR: CY Ant 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1618.m3u8
+#EXTINF:-1,GR: CORFU CHANNEL
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1590.m3u8
+#EXTINF:-1,GR: BEST TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1604.m3u8
+#EXTINF:-1,GR: ANT1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2020.m3u8
+#EXTINF:-1,GR: Alpha
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2012.m3u8
+#EXTINF:-1,GR: Aigaio TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1606.m3u8
+#EXTINF:-1,GR: ACTION 24
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1591.m3u8
+#EXTINF:-1,GR: 4E TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1607.m3u8
+#EXTINF:-1,IN: Zoom
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6241.m3u8
+#EXTINF:-1,IN: Zee Tv Us
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6237.m3u8
+#EXTINF:-1,IN: ZeeTv UK
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6242.m3u8
+#EXTINF:-1,IN: Zee Classic
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6243.m3u8
+#EXTINF:-1,IN: Zee Action
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6244.m3u8
+#EXTINF:-1,IN: Z Cine
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6239.m3u8
+#EXTINF:-1,IN: VijaY
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6240.m3u8
+#EXTINF:-1,IN: UTV Movies
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6245.m3u8
+#EXTINF:-1,IN: UTV Bindas
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6246.m3u8
+#EXTINF:-1,IN: Ten Cricket
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6247.m3u8
+#EXTINF:-1,IN: Sun Tv
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6218.m3u8
+#EXTINF:-1,IN: Sun Music
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6219.m3u8
+#EXTINF:-1,IN: Starz Cinema
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6224.m3u8
+#EXTINF:-1,IN: Star Plus HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6248.m3u8
+#EXTINF:-1,IN: Star Plus
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6220.m3u8
+#EXTINF:-1,IN: Star Gold
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6249.m3u8
+#EXTINF:-1,IN: SonY Us
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6222.m3u8
+#EXTINF:-1,IN: Sony Sab
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6223.m3u8
+#EXTINF:-1,IN: Sony Pix HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6233.m3u8
+#EXTINF:-1,IN: Sony HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6221.m3u8
+#EXTINF:-1,IN: Sirip
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6238.m3u8
+#EXTINF:-1,IN: Set Mx
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6227.m3u8
+#EXTINF:-1,IN: Pogo
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6250.m3u8
+#EXTINF:-1,IN: omni1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6228.m3u8
+#EXTINF:-1,IN: Music India
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6251.m3u8
+#EXTINF:-1,IN: MTV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6252.m3u8
+#EXTINF:-1,IN: Mtunes HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6253.m3u8
+#EXTINF:-1,IN: Ktv
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6230.m3u8
+#EXTINF:-1,IN: jmovie
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6226.m3u8
+#EXTINF:-1,IN: jayatv
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6229.m3u8
+#EXTINF:-1,IN: J Max
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6231.m3u8
+#EXTINF:-1,IN: Dish Cinma
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6216.m3u8
+#EXTINF:-1,IN: ChnLi
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6232.m3u8
+#EXTINF:-1,IN: Bindass Play
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6254.m3u8
+#EXTINF:-1,IN: B4U Movie
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6217.m3u8
+#EXTINF:-1,IN: Atn Bang
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6234.m3u8
+#EXTINF:-1,IN: Aath
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6235.m3u8
+#EXTINF:-1,IN: Aapkaus
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6225.m3u8
+#EXTINF:-1,IN: Aajtak
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6236.m3u8
+#EXTINF:-1,IT: Rai 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1662.m3u8
+#EXTINF:-1,IT: Rai 2 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1663.m3u8
+#EXTINF:-1,IT: Rai 3 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1664.m3u8
+#EXTINF:-1,IT: Rai4
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1709.m3u8
+#EXTINF:-1,IT: Rai 5
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3655.m3u8
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1687.m3u8
+#EXTINF:-1,IT: Sky Sport 2 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1688.m3u8
+#EXTINF:-1,IT: Sky Sport 3 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1689.m3u8
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1691.m3u8
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1686.m3u8
+#EXTINF:-1,IT: Sky Calcio 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1693.m3u8
+#EXTINF:-1,IT: Sky Calcio 2 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1694.m3u8
+#EXTINF:-1,IT: Sky Sport MotoGP HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3639.m3u8
+#EXTINF:-1,IT: Sky Cinema  HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4074.m3u8
+#EXTINF:-1,IT: Sky Cinema Classic HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4076.m3u8
+#EXTINF:-1,IT: Sky Cinema 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4077.m3u8
+#EXTINF:-1,IT: Sky Cinema Passion HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2009.m3u8
+#EXTINF:-1,IT: Sky Cinema Family HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2010.m3u8
+#EXTINF:-1,IT: Sky Cinema Comedy HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2011.m3u8
+#EXTINF:-1,IT: Sky Atlantic HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1682.m3u8
+#EXTINF:-1,IT: RSI La 2 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5228.m3u8
+#EXTINF:-1,IT: RSI La 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5229.m3u8
+#EXTINF:-1,IT: Real Time
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5237.m3u8
+#EXTINF:-1,IT: Rai Sport 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5230.m3u8
+#EXTINF:-1,IT: Radio Montecarlo TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5238.m3u8
+#EXTINF:-1,IT: Radio Italia TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5239.m3u8
+#EXTINF:-1,IT: Radio 105 TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5240.m3u8
+#EXTINF:-1,IT: Premium Sport HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5245.m3u8
+#EXTINF:-1,IT: Premium Calcio HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5247.m3u8
+#EXTINF:-1,IT: La 7
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5233.m3u8
+#EXTINF:-1,IT: Italia 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5234.m3u8
+#EXTINF:-1,IT: Iris
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5222.m3u8
+#EXTINF:-1,IT: Fox Sport
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5223.m3u8
+#EXTINF:-1,IT: DMAX
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5231.m3u8
+#EXTINF:-1,IT: Sky Cielo
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5227.m3u8
+#EXTINF:-1,IT: Disney Channel
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4377.m3u8
+#EXTINF:-1,IT: Super Tennis HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4084.m3u8
+#EXTINF:-1,IT: Rai movie
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4108.m3u8
+#EXTINF:-1,IT: Fox Comedy HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4082.m3u8
+#EXTINF:-1,IT: Marco Polo
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4083.m3u8
+#EXTINF:-1,IT: Nat Geo People
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4088.m3u8
+#EXTINF:-1,IT: History HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4089.m3u8
+#EXTINF:-1,IT: AXN HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4081.m3u8
+#EXTINF:-1,IT: WWE
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3712.m3u8
+#EXTINF:-1,IT: Rete 4
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3707.m3u8
+#EXTINF:-1,IT: Rai Sport 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3708.m3u8
+#EXTINF:-1,IT: National Geographic HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3717.m3u8
+#EXTINF:-1,IT: Fox HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3713.m3u8
+#EXTINF:-1,IT: Premium BBC Knowledge
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3683.m3u8
+#EXTINF:-1,IT: Nat Geo Wild HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3666.m3u8
+#EXTINF:-1,IT: E!
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3677.m3u8
+#EXTINF:-1,IT: Discovery Channel
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3667.m3u8
+#EXTINF:-1,IT: Cinema Cult HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3635.m3u8
+#EXTINF:-1,IT: Sky Uno
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1681.m3u8
+#EXTINF:-1,IT: Sky TG 24
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1674.m3u8
+#EXTINF:-1,IT: Sky SuperCalcio HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1692.m3u8
+#EXTINF:-1,IT: Premium Joi
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4091.m3u8
+#EXTINF:-1,IT: Premium EuroSport 2 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4094.m3u8
+#EXTINF:-1,IT: Premium EuroSport 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4093.m3u8
+#EXTINF:-1,IT: Premium Action HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4103.m3u8
+#EXTINF:-1,IT: Premium Cinema Plus 24
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4383.m3u8
+#EXTINF:-1,IT: Premium Calcio 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3720.m3u8
+#EXTINF:-1,IT: Premium Calcio 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3719.m3u8
+#EXTINF:-1,IT: Premium Energy
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1708.m3u8
+#EXTINF:-1,IT: Premium Emotion
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1707.m3u8
+#EXTINF:-1,IT: Premium Disney Junior
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1706.m3u8
+#EXTINF:-1,IT: Premium Disney Channel
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1705.m3u8
+#EXTINF:-1,IT: Premium Discovery World
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1704.m3u8
+#EXTINF:-1,IT: Premium Crime
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1703.m3u8
+#EXTINF:-1,IT: Premium Comedy
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1702.m3u8
+#EXTINF:-1,IT: Premium Cinema
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1701.m3u8
+#EXTINF:-1,IT: Premium Cinema2 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4288.m3u8
+#EXTINF:-1,IT: Premium Cartoon Network
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1700.m3u8
+#EXTINF:-1,IT: Premium Studio Universal
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1712.m3u8
+#EXTINF:-1,IT: Premium Calcio 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1699.m3u8
+#EXTINF:-1,IT: Premium Calcio
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1698.m3u8
+#EXTINF:-1,IT: Premium BBC
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1697.m3u8
+#EXTINF:-1,IT: Sky PrimaFila 19 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4300.m3u8
+#EXTINF:-1,IT: Sky PrimaFila 18 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4301.m3u8
+#EXTINF:-1,IT: Sky PrimaFila 17 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4302.m3u8
+#EXTINF:-1,IT: Sky PrimaFila 16 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4303.m3u8
+#EXTINF:-1,IT: Sky PrimaFila 15 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4304.m3u8
+#EXTINF:-1,IT: Sky PrimaFila 14 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4305.m3u8
+#EXTINF:-1,IT: Sky PrimaFila 13 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4306.m3u8
+#EXTINF:-1,IT: Sky PrimaFila 12 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4307.m3u8
+#EXTINF:-1,IT: Sky Primafila 9 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2006.m3u8
+#EXTINF:-1,IT: Sky Primafila 8 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2005.m3u8
+#EXTINF:-1,IT: Sky Primafila 7 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2004.m3u8
+#EXTINF:-1,IT: Sky Primafila 6 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2003.m3u8
+#EXTINF:-1,IT: Sky Primafila 5 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2002.m3u8
+#EXTINF:-1,IT: Sky Primafila 4 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2001.m3u8
+#EXTINF:-1,IT: Sky Primafila 3 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2000.m3u8
+#EXTINF:-1,IT: Sky Primafila 2 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1999.m3u8
+#EXTINF:-1,IT: Sky Primafila 11 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2008.m3u8
+#EXTINF:-1,IT: Sky Primafila 10 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2007.m3u8
+#EXTINF:-1,IT: Sky Primafila 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1998.m3u8
+#EXTINF:-1,IT: Rete55
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2067.m3u8
+#EXTINF:-1,IT: Fox Crime HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1683.m3u8
+#EXTINF:-1,IT: Cinema2 Plus 24 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1676.m3u8
+#EXTINF:-1,IT: Cinema Max HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1679.m3u8
+#EXTINF:-1,IT: Cielo
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1671.m3u8
+#EXTINF:-1,IT: Canale 5
+http://portal.rapidiptv.com:8080/live/mondi/mondi/1666.m3u8
+#EXTINF:-1,NL: NPO 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4142.m3u8
+#EXTINF:-1,NL: NPO 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4143.m3u8
+#EXTINF:-1,NL: NPO 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4144.m3u8
+#EXTINF:-1,NL: RTL 4
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4149.m3u8
+#EXTINF:-1,NL: RTL 5 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4150.m3u8
+#EXTINF:-1,NL: SBS 6 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4147.m3u8
+#EXTINF:-1,NL: RTL 7 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4151.m3u8
+#EXTINF:-1,NL: RTL 8
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4152.m3u8
+#EXTINF:-1,NL: SBS 9
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4148.m3u8
+#EXTINF:-1,NL: Veronica/Disney XD HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4177.m3u8
+#EXTINF:-1,NL: NET 5
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4145.m3u8
+#EXTINF:-1,NL: Sport 1 Racing
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7009.m3u8
+#EXTINF:-1,NL: Sport 1 Extra 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7008.m3u8
+#EXTINF:-1,NL: Sport 1 Extra 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7007.m3u8
+#EXTINF:-1,NL: Fox Sport 6
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4172.m3u8
+#EXTINF:-1,NL: Fox Sport 5
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4173.m3u8
+#EXTINF:-1,NL: Fox Sport 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4171.m3u8
+#EXTINF:-1,NL: Fox Sporm3u8 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4170.m3u8
+#EXTINF:-1,NL: Fox Sport 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4169.m3u8
+#EXTINF:-1,NL: Sport1 Select HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4166.m3u8
+#EXTINF:-1,NL: Sport1 Golf HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4168.m3u8
+#EXTINF:-1,NL: Sport 1 Volebal HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4167.m3u8
+#EXTINF:-1,NL: Edge Sport
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4140.m3u8
+#EXTINF:-1,NL: RTV Drenthe HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4155.m3u8
+#EXTINF:-1,NL: 13th Street
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4174.m3u8
+#EXTINF:-1,NL: HBO 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4156.m3u8
+#EXTINF:-1,NL: HBO 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4158.m3u8
+#EXTINF:-1,NL: HBO 2 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4157.m3u8
+#EXTINF:-1,NL: Fox Life
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4133.m3u8
+#EXTINF:-1,NL: Fox
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4134.m3u8
+#EXTINF:-1,NL: Film1 Sundance
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4135.m3u8
+#EXTINF:-1,NL: Film1 Premiere HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4162.m3u8
+#EXTINF:-1,NL: Film 1 Comedy and Kids
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4160.m3u8
+#EXTINF:-1,NL: Film 1 Action
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4159.m3u8
+#EXTINF:-1,NL: Disney Channel
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4141.m3u8
+#EXTINF:-1,NL: Discovery NL
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4176.m3u8
+#EXTINF:-1,NL: MTV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4136.m3u8
+#EXTINF:-1,NL: Comedy Central
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4137.m3u8
+#EXTINF:-1,NL: Syfy
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4139.m3u8
+#EXTINF:-1,PT: RTP 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3208.m3u8
+#EXTINF:-1,PT: RTP 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3209.m3u8
+#EXTINF:-1,PT: SIC
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3227.m3u8
+#EXTINF:-1,PT: TVI
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3214.m3u8
+#EXTINF:-1,PT: SIC Noticias
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3229.m3u8
+#EXTINF:-1,PT: RTP 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3213.m3u8
+#EXTINF:-1,PT: TVI 24
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5536.m3u8
+#EXTINF:-1,PT: CMTV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3236.m3u8
+#EXTINF:-1,PT: CBC  Reality
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3215.m3u8
+#EXTINF:-1,PT: RTP Memoria
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3212.m3u8
+#EXTINF:-1,PT: RTP Madeira
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3211.m3u8
+#EXTINF:-1,PT: RTP Acores
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3210.m3u8
+#EXTINF:-1,PT: TVCine 4 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5548.m3u8
+#EXTINF:-1,PT: TVCine 3 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5547.m3u8
+#EXTINF:-1,PT: TVCine 2 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5546.m3u8
+#EXTINF:-1,PT: TVCine 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5545.m3u8
+#EXTINF:-1,PT: FOX Movies
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5550.m3u8
+#EXTINF:-1,PT: Fox Life HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3233.m3u8
+#EXTINF:-1,PT: Fox HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3232.m3u8
+#EXTINF:-1,PT: FOX Crime HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5549.m3u8
+#EXTINF:-1,PT: CineMundo
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5544.m3u8
+#EXTINF:-1,PT: Hollywood
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3307.m3u8
+#EXTINF:-1,PT: AXN HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3255.m3u8
+#EXTINF:-1,PT: AXN WHITE HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3242.m3u8
+#EXTINF:-1,PT: AXN Black HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5551.m3u8
+#EXTINF:-1,PT: FX
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3231.m3u8
+#EXTINF:-1,PT: MOV HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3246.m3u8
+#EXTINF:-1,PT: Caca & Pesca
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5543.m3u8
+#EXTINF:-1,PT: BTV 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5541.m3u8
+#EXTINF:-1,PT: Tvi ficcao
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5542.m3u8
+#EXTINF:-1,PT: Benfica TV 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3309.m3u8
+#EXTINF:-1,PT: Benfica TV 1 Full HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3308.m3u8
+#EXTINF:-1,PT: SportTV 5
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3225.m3u8
+#EXTINF:-1,PT: SportTV 4
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3224.m3u8
+#EXTINF:-1,PT: SportTV 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3223.m3u8
+#EXTINF:-1,PT: SportTV 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3222.m3u8
+#EXTINF:-1,PT: SportTV 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3221.m3u8
+#EXTINF:-1,PT: Motors TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3252.m3u8
+#EXTINF:-1,PT: EuroSport 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3234.m3u8
+#EXTINF:-1,PT: VeVo 3 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3220.m3u8
+#EXTINF:-1,PT: VeVo 2 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3219.m3u8
+#EXTINF:-1,PT: VeVo 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3218.m3u8
+#EXTINF:-1,PT: E! Entertaunment
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3257.m3u8
+#EXTINF:-1,PT: Kiss TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5552.m3u8
+#EXTINF:-1,PT: TV Globo Premium
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3217.m3u8
+#EXTINF:-1,PT: TV Globo
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3216.m3u8
+#EXTINF:-1,PT: TPA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3245.m3u8
+#EXTINF:-1,PT: Sy-Fy
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3226.m3u8
+#EXTINF:-1,PT: Sky News
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3248.m3u8
+#EXTINF:-1,PT: SIC Kids
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3228.m3u8
+#EXTINF:-1,PT: Toros TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5555.m3u8
+#EXTINF:-1,PT: RTP África
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5539.m3u8
+#EXTINF:-1,PT: Porto Canal
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5538.m3u8
+#EXTINF:-1,PT: Plus TVI
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5537.m3u8
+#EXTINF:-1,PT: Nat Geo Wild
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5556.m3u8
+#EXTINF:-1,PT: Cartoon NetWork
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5554.m3u8
+#EXTINF:-1,PT: Biggs
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5553.m3u8
+#EXTINF:-1,PT: Abola TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5540.m3u8
+#EXTINF:-1,PT: TV Series
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3304.m3u8
+#EXTINF:-1,PT: Sporting TV HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3305.m3u8
+#EXTINF:-1,PT: Nat Geographic Channel
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3306.m3u8
+#EXTINF:-1,PT: Disney Channel
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3310.m3u8
+#EXTINF:-1,PT: TV Record
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3249.m3u8
+#EXTINF:-1,PT: Odisseia
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3230.m3u8
+#EXTINF:-1,PT: Niclelodeon
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3240.m3u8
+#EXTINF:-1,PT: AFRO MUSIC
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3250.m3u8
+#EXTINF:-1,PT: Mezzo
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3253.m3u8
+#EXTINF:-1,PT: Economico TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3256.m3u8
+#EXTINF:-1,PT: Disney Junior
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3258.m3u8
+#EXTINF:-1,PT: Discovery HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3247.m3u8
+#EXTINF:-1,PT: CNN
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3259.m3u8
+#EXTINF:-1,PT: Cancao Nova
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3237.m3u8
+#EXTINF:-1,PT: CANAL PANDA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3239.m3u8
+#EXTINF:-1,PT: Canal Historia
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3238.m3u8
+#EXTINF:-1,PT: 24 Kitchen
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3243.m3u8
+#EXTINF:-1,RU:TV1000 Comedy
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5612.m3u8
+#EXTINF:-1,RU: tv1000action
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5611.m3u8
+#EXTINF:-1,RU: tv1000
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5610.m3u8
+#EXTINF:-1,RU: kinoreys_2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5609.m3u8
+#EXTINF:-1,RU: kinoreys_1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5608.m3u8
+#EXTINF:-1,RU: auto_plus
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5637.m3u8
+#EXTINF:-1,RU: boe
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5636.m3u8
+#EXTINF:-1,RU:discovery
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5635.m3u8
+#EXTINF:-1,RU: khl
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5634.m3u8
+#EXTINF:-1,RU: rus_extreme
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5633.m3u8
+#EXTINF:-1,RU: ntv_sport
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5632.m3u8
+#EXTINF:-1,RU: eurosport_2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5631.m3u8
+#EXTINF:-1,RU: eurosport
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5630.m3u8
+#EXTINF:-1,RU: extreme_sporm3u8
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5629.m3u8
+#EXTINF:-1,RU: nash_football
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5628.m3u8
+#EXTINF:-1,RU: ntv_football_3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5627.m3u8
+#EXTINF:-1,RU: ntv_football_2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5626.m3u8
+#EXTINF:-1,RU: ntv_football_1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5625.m3u8
+#EXTINF:-1,RU: basketball
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5624.m3u8
+#EXTINF:-1,RU: tennis
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5623.m3u8
+#EXTINF:-1,RU: viasat_sport
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5622.m3u8
+#EXTINF:-1,RU: kinoplus
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5621.m3u8
+#EXTINF:-1,RU:nashe_novoe_kino
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5620.m3u8
+#EXTINF:-1,RU: nashe_kino
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5619.m3u8
+#EXTINF:-1,RU: kinohit
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5618.m3u8
+#EXTINF:-1,RU: komedia_tv
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5617.m3u8
+#EXTINF:-1,RU: india
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5616.m3u8
+#EXTINF:-1,RU: dom_kino
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5615.m3u8
+#EXTINF:-1,RU: premiera
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5614.m3u8
+#EXTINF:-1,RU: kino_soyuz
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5613.m3u8
+#EXTINF:-1,SE: VIASAT Sport
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5638.m3u8
+#EXTINF:-1,SE: VIASAT FILM
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5640.m3u8
+#EXTINF:-1,SE: TV8 SW
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5642.m3u8
+#EXTINF:-1,SE: TV6
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5643.m3u8
+#EXTINF:-1,SE: TV4 GULD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5644.m3u8
+#EXTINF:-1,SE: Kanal 4
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5645.m3u8
+#EXTINF:-1,SE: TV4
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5646.m3u8
+#EXTINF:-1,SE: SVT24/B
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5647.m3u8
+#EXTINF:-1,SE: 6Eren
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5648.m3u8
+#EXTINF:-1,SE: Canal 8 sport
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5649.m3u8
+#EXTINF:-1,SE: TV3 sport1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5650.m3u8
+#EXTINF:-1,SE: C MORE SPORT
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5651.m3u8
+#EXTINF:-1,SE: C MORE SERIES
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5652.m3u8
+#EXTINF:-1,SE: C MORE LIVE 4
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5653.m3u8
+#EXTINF:-1,SE: C MORE LIVE 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5654.m3u8
+#EXTINF:-1,SE: C MORE LIVE 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5655.m3u8
+#EXTINF:-1,SE: C MORE LIVE
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5656.m3u8
+#EXTINF:-1,SE: C MORE HIm3u8
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5657.m3u8
+#EXTINF:-1,SE: C MORE FOOTBAL NO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5658.m3u8
+#EXTINF:-1,SE: C MORE FIRST
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5659.m3u8
+#EXTINF:-1,SE: C MORE ACTION
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5660.m3u8
+#EXTINF:-1,VIP: CTH Stadium 6 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6051.m3u8
+#EXTINF:-1,TR: TRT Bugun TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5990.m3u8
+#EXTINF:-1,TR: Tivibu Spor 2 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5988.m3u8
+#EXTINF:-1,TR: Tivibu Spor 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5987.m3u8
+#EXTINF:-1,TR: NTV Smartspor
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5981.m3u8
+#EXTINF:-1,TR: Loca 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5984.m3u8
+#EXTINF:-1,TR: Loca 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5983.m3u8
+#EXTINF:-1,TR: Loca 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5982.m3u8
+#EXTINF:-1,TR: Smart Sport2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5210.m3u8
+#EXTINF:-1,TR: Smart Sport1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5209.m3u8
+#EXTINF:-1,TR:Planet Mutfak
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5170.m3u8
+#EXTINF:-1,TR:National Geographic Wild
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5166.m3u8
+#EXTINF:-1,TR:National Geographic Channel
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5165.m3u8
+#EXTINF:-1,TR:Nat Geo People
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5167.m3u8
+#EXTINF:-1,TR:Disney Junior
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5172.m3u8
+#EXTINF:-1,TR:Disney Channel
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5171.m3u8
+#EXTINF:-1,TR:Discovery Science
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5163.m3u8
+#EXTINF:-1,TR:Discovery Channel
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5164.m3u8
+#EXTINF:-1,TR: KRAL
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5112.m3u8
+#EXTINF:-1,TR: ULKE TV HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5144.m3u8
+#EXTINF:-1,TR: TV 8
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5129.m3u8
+#EXTINF:-1,TR: TRT 1 HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5121.m3u8
+#EXTINF:-1,TR: TRT TÜRK
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5161.m3u8
+#EXTINF:-1,TR: TRT SPOR
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5122.m3u8
+#EXTINF:-1,TR: TRT DIYANET
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5156.m3u8
+#EXTINF:-1,TR: TRT BELGESEL
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5145.m3u8
+#EXTINF:-1,TR: TRT ÇOCUK
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5123.m3u8
+#EXTINF:-1,TR: Vizyon tv1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5154.m3u8
+#EXTINF:-1,TR: Vuzion tv2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5152.m3u8
+#EXTINF:-1,TR: TGRT BELGESEL
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5146.m3u8
+#EXTINF:-1,TR: STAR TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5126.m3u8
+#EXTINF:-1,TR: Domino tv
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5137.m3u8
+#EXTINF:-1,TR: TURKMAX
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5116.m3u8
+#EXTINF:-1,TR: SHOW TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5127.m3u8
+#EXTINF:-1,TR: SEMERKAND HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5147.m3u8
+#EXTINF:-1,TR: SAMANYOLU
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5132.m3u8
+#EXTINF:-1,TR: SALON3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5120.m3u8
+#EXTINF:-1,TR: SALON2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5119.m3u8
+#EXTINF:-1,TR: SALON1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5118.m3u8
+#EXTINF:-1,TR: NTVSPOR
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5135.m3u8
+#EXTINF:-1,TR: NTV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5134.m3u8
+#EXTINF:-1,TR: MINIKA GO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5139.m3u8
+#EXTINF:-1,TR: MOViESMART_PREMIUM
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5117.m3u8
+#EXTINF:-1,TR: MOViESMART_GOLD_HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5113.m3u8
+#EXTINF:-1,TR: SKYTURK 360
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5114.m3u8
+#EXTINF:-1,TR: MOViEMAX_FESTIFAL_HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5115.m3u8
+#EXTINF:-1,TR: MINIKA COCUK
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5140.m3u8
+#EXTINF:-1,TR: KANALTURK
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5143.m3u8
+#EXTINF:-1,TR: KANAL D HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5124.m3u8
+#EXTINF:-1,TR: KANAL A
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5148.m3u8
+#EXTINF:-1,TR: KANAL 7
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5131.m3u8
+#EXTINF:-1,TR: History Channel
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5162.m3u8
+#EXTINF:-1,TR: FOX HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5128.m3u8
+#EXTINF:-1,TR: E2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5136.m3u8
+#EXTINF:-1,TR: TJK
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5141.m3u8
+#EXTINF:-1,TR: DREAM TURK
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5142.m3u8
+#EXTINF:-1,TR: CNNTURK
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5149.m3u8
+#EXTINF:-1,TR: CINE 5
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5130.m3u8
+#EXTINF:-1,TR: CARTONNETWORK
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5138.m3u8
+#EXTINF:-1,TR: ATV HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5125.m3u8
+#EXTINF:-1,TR: A HABER
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5150.m3u8
+#EXTINF:-1,TR: A SPOR
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5133.m3u8
+#EXTINF:-1,US: NBA TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4339.m3u8
+#EXTINF:-1,US: N Sport 5
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2645.m3u8
+#EXTINF:-1,US: N Sport 4
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2644.m3u8
+#EXTINF:-1,US: N Sport 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2643.m3u8
+#EXTINF:-1,US: m3u8N Sporm3u8 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2642.m3u8
+#EXTINF:-1,US: N Sport 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2641.m3u8
+#EXTINF:-1,US: CNBC GOLF
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2637.m3u8
+#EXTINF:-1,US: Fox Sport 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2636.m3u8
+#EXTINF:-1,US: Fox Sport 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/2635.m3u8
+#EXTINF:-1,CH: TVO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7206.m3u8
+#EXTINF:-1,CH: TV Suedosm3u8chweiz
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7205.m3u8
+#EXTINF:-1,CH: Zueri Plus
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7207.m3u8
+#EXTINF:-1,CH: TeleClub Star
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7176.m3u8
+#EXTINF:-1,CH: TeleClub Sport 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7189.m3u8
+#EXTINF:-1,CH: TeleClub Sport 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7188.m3u8
+#EXTINF:-1,CH: TeleClub Sport 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7187.m3u8
+#EXTINF:-1,CH: TeleClub Spiegel Geschichte
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7177.m3u8
+#EXTINF:-1,CH: TeleClub Romance TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7178.m3u8
+#EXTINF:-1,CH: TeleClub Prime
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7179.m3u8
+#EXTINF:-1,CH: TeleClub MGM
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7180.m3u8
+#EXTINF:-1,CH: TeleClub Krimi
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7181.m3u8
+#EXTINF:-1,CH: TeleClub Disney XD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7182.m3u8
+#EXTINF:-1,CH: TeleClub Disney CineMagic
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7183.m3u8
+#EXTINF:-1,CH: TeleClub Discovery
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7184.m3u8
+#EXTINF:-1,CH: TeleClub Cinema
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7175.m3u8
+#EXTINF:-1,CH: TeleClub Animal Planet
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7185.m3u8
+#EXTINF:-1,CH: TeleClub 13TH Street
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7186.m3u8
+#EXTINF:-1,CH: Tele Zueri
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7190.m3u8
+#EXTINF:-1,CH: Tele Top
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7191.m3u8
+#EXTINF:-1,CH: Tele Bielingue
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7192.m3u8
+#EXTINF:-1,CH: Tele Basel
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7193.m3u8
+#EXTINF:-1,CH: Tele Baern
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7194.m3u8
+#EXTINF:-1,CH: Super RTL
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7211.m3u8
+#EXTINF:-1,CH: Suisse
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7202.m3u8
+#EXTINF:-1,CH: SRF 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7196.m3u8
+#EXTINF:-1,CH: SRF 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7195.m3u8
+#EXTINF:-1,CH: Sport 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7203.m3u8
+#EXTINF:-1,CH: Schweiz 5
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7201.m3u8
+#EXTINF:-1,CH: R UN
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7199.m3u8
+#EXTINF:-1,CH: R DEUX
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7200.m3u8
+#EXTINF:-1,CH: RTL 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7209.m3u8
+#EXTINF:-1,CH: RTL 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7208.m3u8
+#EXTINF:-1,CH: RSI LA 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7198.m3u8
+#EXTINF:-1,CH: RSI LA 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7197.m3u8
+#EXTINF:-1,CH: Rouge TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7204.m3u8
+#EXTINF:-1,CH: PRO 7
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7210.m3u8
+#EXTINF:-1,CH: N TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7213.m3u8
+#EXTINF:-1,CH: Kabel 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/7212.m3u8
+#EXTINF:-1,NR: YLE TV2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5803.m3u8
+#EXTINF:-1,NR: YLE TV 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5804.m3u8
+#EXTINF:-1,NR: Vox Norway
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5805.m3u8
+#EXTINF:-1,NR: Viasat 4
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5806.m3u8
+#EXTINF:-1,NR: Vfilm Action
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5807.m3u8
+#EXTINF:-1,NR: TV3 Sweden
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5808.m3u8
+#EXTINF:-1,NR: TV3 Puls
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5809.m3u8
+#EXTINF:-1,NR: TV3 Norway
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5810.m3u8
+#EXTINF:-1,NR: TV3 Danmark
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5811.m3u8
+#EXTINF:-1,NR: TV2 Zebra
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5812.m3u8
+#EXTINF:-1,NR: TV2 Nyhem3u8kanalen
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5813.m3u8
+#EXTINF:-1,NR: TV2 Norge
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5814.m3u8
+#EXTINF:-1,NR: TV2 nord
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5815.m3u8
+#EXTINF:-1,NR: TV2 news
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5816.m3u8
+#EXTINF:-1,NR: TV2 lorry
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5817.m3u8
+#EXTINF:-1,NR: TV2 charlie
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5818.m3u8
+#EXTINF:-1,NR: TV2 Bliss
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5819.m3u8
+#EXTINF:-1,NR: TV10
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5820.m3u8
+#EXTINF:-1,NR: TV Norge
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5821.m3u8
+#EXTINF:-1,NR: TV 4
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5822.m3u8
+#EXTINF:-1,NR: TV 4 Fakta
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5823.m3u8
+#EXTINF:-1,NR: SVT2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5825.m3u8
+#EXTINF:-1,NR: SVT1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5826.m3u8
+#EXTINF:-1,NR: 3+
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5824.m3u8
+#EXTINF:-1,NR:K Super/3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5827.m3u8
+#EXTINF:-1,NR: NR:K 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5828.m3u8
+#EXTINF:-1,NR: NR:K 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5829.m3u8
+#EXTINF:-1,NR: Nelonen
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5830.m3u8
+#EXTINF:-1,NR: MTV Sport 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5831.m3u8
+#EXTINF:-1,NR: MTV Sport 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5832.m3u8
+#EXTINF:-1,NR: Max Norway
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5833.m3u8
+#EXTINF:-1,NR: Kunskapskanalen
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5834.m3u8
+#EXTINF:-1,NR: Kanal 5 Sweden
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5835.m3u8
+#EXTINF:-1,NR: Kanal 5
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5836.m3u8
+#EXTINF:-1,NR: Kanal 4
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5837.m3u8
+#EXTINF:-1,NR: Fem
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5838.m3u8
+#EXTINF:-1,NR: Eurosport
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5839.m3u8
+#EXTINF:-1,NR: DR2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5840.m3u8
+#EXTINF:-1,NR: DR1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5841.m3u8
+#EXTINF:-1,NR: Dr Ultra
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5842.m3u8
+#EXTINF:-1,NR: Dr Ramasjang
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5843.m3u8
+#EXTINF:-1,NR: DR K
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5844.m3u8
+#EXTINF:-1,NR: DK 4
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5845.m3u8
+#EXTINF:-1,NR: Disney Channel (D)
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5846.m3u8
+#EXTINF:-1,NR: Cartoon Network (N)
+http://portal.rapidiptv.com:8080/live/mondi/mondi/5847.m3u8
+#EXTINF:-1,Southpaw [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/7349.mkv
+#EXTINF:-1,Max [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/7350.mkv
+#EXTINF:-1,Freetown [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/7348.mkv
+#EXTINF:-1,Mission Impossible - Rogue Nation [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/7078.mkv
+#EXTINF:-1,Terminator Genisys [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6926.mkv
+#EXTINF:-1,Entourage [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6927.mkv
+#EXTINF:-1,Vendetta [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6818.mkv
+#EXTINF:-1,Tomorrowland [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6819.mkv
+#EXTINF:-1,The Runner [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6817.mkv
+#EXTINF:-1,Magic Mike XXL [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6820.mkv
+#EXTINF:-1,Jurassic World [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6816.mkv
+#EXTINF:-1,Insidious Chapter 3 [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6822.mkv
+#EXTINF:-1,Extinction [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6821.mkv
+#EXTINF:-1,Aloha [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6815.mkv
+#EXTINF:-1,Woman in Gold [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6637.mkv
+#EXTINF:-1,Tracers [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6635.mkv
+#EXTINF:-1,Tale of Tales [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6636.mkv
+#EXTINF:-1,Mortdecai [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6638.mkv
+#EXTINF:-1,Self Less [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6612.mkv
+#EXTINF:-1,Fifty Shades of Grey [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6615.mkv
+#EXTINF:-1,Child 44 [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6614.mkv
+#EXTINF:-1,Avengers Age of Ultron [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6613.mkv
+#EXTINF:-1,San Andreas [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6575.mkv
+#EXTINF:-1,Tanu Weds Manu Returns [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6574.mkv
+#EXTINF:-1,Piku [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6573.mkv
+#EXTINF:-1,Gabbar is Back [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6572.mkv
+#EXTINF:-1,Detective Byomkesh Bakshy [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6571.mkv
+#EXTINF:-1,Bombay Velvet [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6570.mkv
+#EXTINF:-1,Bajrangi Bhaijaan [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6569.mkv
+#EXTINF:-1,With This Ring [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6558.mkv
+#EXTINF:-1,True Story [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6557.mkv
+#EXTINF:-1,The Wedding Ringer [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6556.mkv
+#EXTINF:-1,The SpongeBob Movie Sponge Out of Water [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6555.mkv
+#EXTINF:-1,The Second Best Exotic Marigold Hotel [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6554.mkv
+#EXTINF:-1,The Longest Ride [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6553.mkv
+#EXTINF:-1,The DUFF [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6552.mkv
+#EXTINF:-1,The Age of Adaline [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6551.mkv
+#EXTINF:-1,Survivor [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6550.mkv
+#EXTINF:-1,Strangerland [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6549.mkv
+#EXTINF:-1,Slow West [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6548.mkv
+#EXTINF:-1,Shaun the Sheep Movie [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6547.mkv
+#EXTINF:-1,Run All Night [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6546.mkv
+#EXTINF:-1,Pound of Flesh [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6545.mkv
+#EXTINF:-1,Paul Blart Mall Cop 2 [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6544.mkv
+#EXTINF:-1,Maggie [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6543.mkv
+#EXTINF:-1,Mad Max Fury Road [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6542.mkv
+#EXTINF:-1,Last Knighm3u8 [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6541.mkv
+#EXTINF:-1,Insurgent [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6540.mkv
+#EXTINF:-1,Home [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6539.mkv
+#EXTINF:-1,Get Hard [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6538.mkv
+#EXTINF:-1,Focus [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6537.mkv
+#EXTINF:-1,Fast and Furious 7 [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6536.mkv
+#EXTINF:-1,Ex Machina [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6535.mkv
+#EXTINF:-1,Danny Collins [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6534.mkv
+#EXTINF:-1,Cinderella  [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6533.mkv
+#EXTINF:-1,Chappie [2015]
+http://portal.rapidiptv.com:8080/movie/mondi/mondi/6532.mkv
+#EXTINF:-1,RO:Digi Sport 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6578.m3u8
+#EXTINF:-1,RO:Digi Sport 2
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6577.m3u8
+#EXTINF:-1,RO:Digi Sport 1
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6576.m3u8
+#EXTINF:-1,RO: MUSIC
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6584.m3u8
+#EXTINF:-1,RO: INEDIT TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6583.m3u8
+#EXTINF:-1,RO: DIGIRO-TVR RO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6593.m3u8
+#EXTINF:-1,RO: DIGIRO-TVC 21 RO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6592.m3u8
+#EXTINF:-1,RO: DIGIRO-STV RO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6605.m3u8
+#EXTINF:-1,RO: DIGIRO-Speranta TV RO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6606.m3u8
+#EXTINF:-1,RO: DIGIRO-Salajeanul TV RO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6609.m3u8
+#EXTINF:-1,RO: DIGIRO-Romania TV RO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6607.m3u8
+#EXTINF:-1,RO: DIGIRO-Publika TV RO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6586.m3u8
+#EXTINF:-1,RO: DIGIRO-DIGI 24HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6590.m3u8
+#EXTINF:-1,RO: DIGIRO-Digi 24 Oradea RO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6594.m3u8
+#EXTINF:-1,RO: DIGIRO-Digi 24 HD RO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6595.m3u8
+#EXTINF:-1,RO: DIGIRO-DIGI 24 CRAIOVA
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6587.m3u8
+#EXTINF:-1,RO: DIGIRO-Digi 24 Constanta
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6588.m3u8
+#EXTINF:-1,RO: DIGIRO-Digi 24 Brasov
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6589.m3u8
+#EXTINF:-1,RO: DIGIRO-CTC RO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6596.m3u8
+#EXTINF:-1,RO: DIGIRO-Canal3 RO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6597.m3u8
+#EXTINF:-1,RO: DIGIRO-Busuioc tv RO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6598.m3u8
+#EXTINF:-1,RO: DIGIRO-Bravo RO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6599.m3u8
+#EXTINF:-1,RO: DIGIRO-BANAT TV RO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6600.m3u8
+#EXTINF:-1,RO: DIGIRO-BANAT TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6591.m3u8
+#EXTINF:-1,RO: DIGIRO-Alt tv RO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6601.m3u8
+#EXTINF:-1,RO: DIGIRO-Accent RO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6602.m3u8
+#EXTINF:-1,RO: DIGIRO-6TV RO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6603.m3u8
+#EXTINF:-1,RO: DIGIRO-2Plus tv RO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6604.m3u8
+#EXTINF:-1,RO: Digi FILM RO
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6585.m3u8
+#EXTINF:-1,RO: Digi 24
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6579.m3u8
+#EXTINF:-1,RO: B1 TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6580.m3u8
+#EXTINF:-1,RO: ANTENA 3
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6581.m3u8
+#EXTINF:-1,RO: ANIMAUX TV
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6582.m3u8
